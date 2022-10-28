@@ -96,7 +96,7 @@ export default {
 <style>
 .swiper {
   width: 100%;
-  overflow: visible;
+  overflow: visible !important;
 }
 .myPrev {
   left: 0px;
