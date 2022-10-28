@@ -1,3 +1,7 @@
+const title = 'MEOW'
+const description = 'หมาร้องโฮ่ง แมวร้องเหมียว หนู่ร้องจิ๊ด'
+const images = 'https://nongmeow.herokuapp.com/logo.png'
+
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: true,
@@ -11,7 +15,32 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: description },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: title,
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content: description,
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: images,
+      },
+      {
+        hid: 'og:image:secure_url',
+        property: 'og:image:secure_url',
+        content: images,
+      },
+      {
+        hid: 'og:image:alt',
+        property: 'og:image:alt',
+        content: title,
+      },
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [

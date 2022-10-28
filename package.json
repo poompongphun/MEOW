@@ -1,5 +1,6 @@
 {
   "name": "MEOW",
+  "description": "หมาร้องโฮ่ง แมวร้องเหมียว หนู่ร้องจิ๊ด",
   "version": "1.0.0",
   "private": true,
   "scripts": {
