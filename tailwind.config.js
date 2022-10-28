@@ -1,12 +1,5 @@
 module.exports = {
-  mode: 'jit',
-  content: [
-    "./components/**/*.{js,vue,ts}",
-    "./layouts/**/*.vue",
-    "./pages/**/*.vue",
-    "./plugins/**/*.{js,ts}",
-    "./nuxt.config.{js,ts}",
-  ],
+  content: ['./src/**/*.{html,js}'],
   theme: {
     extend: {
       colors: {
@@ -14,6 +7,7 @@ module.exports = {
         lightBlue: '#C3F8FD',
         darkYellow: '#D5A31C',
         primary: '#6C76EA',
+        lightPrimary: '#6C76EA',
       },
     },
   },

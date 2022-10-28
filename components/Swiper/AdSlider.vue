@@ -1,22 +1,58 @@
 <template>
-  <div>
-    <client-only>
-      <div ref="swiper" class="swiper mySwiper">
-        <div class="swiper-wrapper">
-          <div class="swiper-slide">Slide 1</div>
-          <div class="swiper-slide">Slide 2</div>
-          <div class="swiper-slide">Slide 3</div>
-          <div class="swiper-slide">Slide 4</div>
-          <div class="swiper-slide">Slide 5</div>
-          <div class="swiper-slide">Slide 6</div>
-          <div class="swiper-slide">Slide 7</div>
-          <div class="swiper-slide">Slide 8</div>
-          <div class="swiper-slide">Slide 9</div>
+  <div class="relative flex justify-center items-center">
+    <div class="py-10 overflow-hidden">
+      <client-only>
+        <div ref="swiper" class="swiper mySwiper">
+          <div class="swiper-wrapper">
+            <div v-for="(img, i) in images" :key="i" class="swiper-slide">
+              <div
+                class="
+                  w-full
+                  aspect-[4/3]
+                  overflow-hidden
+                  rounded-xl
+                  drop-shadow-lg
+                "
+              >
+                <img class="w-full h-full object-cover" :src="img" alt="ads" />
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
-      </div>
-    </client-only>
+      </client-only>
+    </div>
+    <button
+      class="
+        myNext
+        w-12
+        h-12
+        bg-lightPrimary
+        flex
+        justify-center
+        items-center
+        rounded-full
+        z-10
+        absolute
+      "
+    >
+      <FontAwesomeIcon icon="angle-right" class="text-white text-2xl" />
+    </button>
+    <button
+      class="
+        myPrev
+        w-12
+        h-12
+        bg-lightPrimary
+        flex
+        justify-center
+        items-center
+        rounded-full
+        z-10
+        absolute
+      "
+    >
+      <FontAwesomeIcon icon="angle-left" class="text-white text-2xl" />
+    </button>
   </div>
 </template>
 
@@ -24,16 +60,34 @@
 import Swiper from 'swiper/swiper-bundle.min'
 import 'swiper/swiper-bundle.min.css'
 export default {
+  props: {
+    images: {
+      type: Array,
+      default: () => ['https://picsum.photos/400/300'],
+    },
+  },
   async mounted() {
     await this.$nextTick()
     // eslint-disable-next-line no-new
     new Swiper(this.$refs.swiper, {
       slidesPerView: 3,
-      spaceBetween: 30,
+      spaceBetween: 10,
       loop: true,
       navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
+        nextEl: '.myNext',
+        prevEl: '.myPrev',
+      },
+      breakpoints: {
+        // when window width is >= 320px
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 10,
+        },
+        // when window width is >= 640px
+        640: {
+          slidesPerView: 3,
+          spaceBetween: 10,
+        },
       },
     })
   },
@@ -42,26 +96,27 @@ export default {
 <style>
 .swiper {
   width: 100%;
-  height: 100vh;
+  overflow: visible;
 }
-
-.swiper-slide {
-  text-align: center;
-  font-size: 18px;
-  background: #fff;
-
-  /* Center slide text vertically */
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center;
+.myPrev {
+  left: 0px;
+}
+.myNext {
+  right: 0px;
+}
+@media screen and (min-width: 640px) {
+  .swiper-slide {
+    transition: transform 0.3s ease-in-out;
+  }
+  .swiper-slide-next {
+    transform: scale(1.15) !important;
+    z-index: 2;
+  }
+  .myPrev {
+    left: -24px;
+  }
+  .myNext {
+    right: -24px;
+  }
 }
 </style>
