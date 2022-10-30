@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-whiteBlue min-h-screen">
+  <div class="min-h-screen relative">
     <nav-bar />
-    <div class="container mx-auto content-area">
+    <div class="container mx-auto content-area mt-[80px]">
       <Nuxt />
     </div>
     <main-footer />
