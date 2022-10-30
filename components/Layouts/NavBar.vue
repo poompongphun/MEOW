@@ -24,7 +24,7 @@
           <input
             class="
               w-full
-              border border-[#E2E2E2]
+              border border-grey
               rounded-lg
               h-9
               pl-3
@@ -73,6 +73,7 @@
         </button>
         <button
           class="
+            menu-btn
             w-7
             md:w-32
             flex
@@ -101,6 +102,49 @@
             <FontAwesomeIcon icon="user" class="text-white text-sm" />
           </div>
           <span class="hidden md:block">บัญชีผู้ใช้</span>
+          <div
+            class="
+              mymenu
+              absolute
+              bg-whiteBlue
+              right-0
+              top-9
+              max-w-[230px]
+              w-full
+              shadow-xl
+              rounded-xl
+              p-2
+              pb-1
+              transition-all
+            "
+          >
+            <div
+              v-for="(menu, i) of menus"
+              :key="i"
+              class="
+                w-full
+                flex
+                justify-start
+                items-center
+                gap-1
+                h-11
+                bg-white
+                border border-grey
+                rounded-xl
+                mb-1
+                px-3
+                hover:bg-[#fafafa]
+                transition-all
+              "
+              @click="menu.clickEvt"
+            >
+              <FontAwesomeIcon
+                :icon="menu.icon"
+                class="text-primary text-lg mr-1"
+              />
+              <span>{{ menu.text }}</span>
+            </div>
+          </div>
         </button>
       </div>
     </div>
@@ -109,9 +153,36 @@
 
 <script>
 export default {
-  data: () => ({
-    isTop: true,
-  }),
+  data() {
+    const self = this
+    return {
+      isTop: true,
+      menus: [
+        {
+          icon: 'clipboard-list',
+          text: 'รายการสินค้า',
+          clickEvt: () => self.$router.push('/product'),
+        },
+        {
+          icon: 'house',
+          text: 'ที่อยู่',
+          clickEvt: () => self.$router.push('/address'),
+        },
+        {
+          icon: 'heart',
+          text: 'สินค้าที่ชอบ',
+          clickEvt: () => self.$router.push('/love'),
+        },
+        {
+          icon: 'right-from-bracket',
+          text: 'ออกจากระบบ',
+          clickEvt: () => {
+            alert('Logout')
+          },
+        },
+      ],
+    }
+  },
   beforeMount() {
     window.addEventListener('scroll', this.handleScroll)
   },
@@ -127,4 +198,12 @@ export default {
 </script>
 
 <style>
+.mymenu {
+  opacity: 0;
+  pointer-events: none;
+}
+.menu-btn:hover .mymenu {
+  opacity: 1;
+  pointer-events: all;
+}
 </style>
