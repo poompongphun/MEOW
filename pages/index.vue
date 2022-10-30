@@ -4,6 +4,10 @@
     <div>
       <div class="text-2xl font-bold">หมวดหมู่สินค้า</div>
     </div>
+    <div>
+      <div class="text-2xl font-bold">สินค้าแนะนำ</div>
+      <product-card></product-card>
+    </div>
   </div>
 </template>
 
