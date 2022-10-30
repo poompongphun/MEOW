@@ -10,6 +10,7 @@ module.exports = {
         lightPrimary: '#6C76EA',
         lightviolet: '#A6B1FE',
         grey: '#E2E2E2',
+        pinkwtf: '#F13C7F'
       },
     },
   },
