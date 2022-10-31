@@ -5,7 +5,8 @@
       bg-gradient-to-t
       from-primary
       to-lightviolet
-      max-w-[200px]
+      max-w-[140px]
+      xl:max-w-[200px]
       w-full
       rounded-lg
       flex

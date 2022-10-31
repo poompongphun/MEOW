@@ -4,7 +4,7 @@
     <div class="mb-8">
       <div class="text-2xl font-bold">หมวดหมู่สินค้า</div>
       <div
-        class="my-2 flex flex-wrap justify-start gap-2"
+        class="my-2 flex flex-wrap justify-center md:justify-start gap-2"
         :class="{ 'justify-center': category.length > 7 }"
       >
         <category-btn
@@ -18,7 +18,7 @@
     </div>
     <div class="mb-8">
       <div class="text-2xl font-bold">สินค้าแนะนำ</div>
-      <div class="grid grid-cols-5 gap-4 my-2">
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-5 gap-4 my-2">
         <product-card
           v-for="(pif, i) in productinfo"
           :key="i"
