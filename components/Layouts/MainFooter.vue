@@ -1,13 +1,13 @@
 <template>
   <div
     class="
-      w-100
       bg-primary
-      h-[19rem]
       rounded-t-3xl
       mx-2
-      px-10
-      pt-10
+      px-5
+      pt-5
+      sm:px-10
+      sm:pt-10
       mt-10
       "
   >
@@ -15,9 +15,9 @@
       class="
         w-full
         bg-[rgba(255,255,255,0.7)]
-        h-full
         rounded-t-3xl
-        p-5
+        p-2
+        sm:p-5
         "
     >
       <div
@@ -25,50 +25,69 @@
           container
           h-full
           mx-auto
-          flex
+          2xl:flex
+          block
           "
       >
         <div
           class="
-            w-64
+            sm:w-80
             text-primary
             flex-none
             flex
             items-center
-            mr-5
+            m-5
+            lg:m-0
+            lg:mr-5
           "
         >
           <div>
-            <img class="w-1/2" src="/logo.png" alt="logo"/>
+            <img class="w-3/5 sm:w-1/2" src="/logo.png" alt="logo"/>
             <span>หมาร้องโฮ่ง แมวร้องเหมียว นกร้องจิ๊บ ส่วนหนูร้องจิ๊ด</span>
           </div>
         </div>
         <div
           class="
-            text-primary
             flex-auto
-            "
+            lg:flex
+            block
+            mt-5
+            2xl:mt-0
+          "
         >
-          <span class="text-xl">Meet our team</span>
-          <div 
+          <div
             class="
-              w-100
-            "
+              text-primary
+              flex-auto
+              m-5
+              lg:m-0
+              lg:mr-5
+              "
           >
+            <span class="text-xl">Meet our team</span>
+            <div 
+              class="
+                w-100
+              "
+            >
 
+            </div>
           </div>
-        </div>
-        <div
-          class="
-            bg-black
-            flex-none
-            rounded-xl
-            w-48
-            ml-5
-            text-white
-            "
-        >
-          <span>View Github</span>
+          <div
+            class="
+              bg-black
+              flex-none
+              rounded-xl
+              sm:w-48
+              m-5
+              h-60
+              text-white
+              lg:m-0
+              lg:ml-5
+              "
+          >
+            <span>View Github</span>
+          </div>
         </div>
       </div>
     </div>
