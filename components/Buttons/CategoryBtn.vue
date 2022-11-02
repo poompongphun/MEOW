@@ -17,7 +17,7 @@
       active:scale-90
       transition-all
     "
-    @click="$router.push('/category/' + name)"
+    @click="$router.push('/products/' + name)"
   >
     <div class="text-center text-md font-bold text-white">
       <div>
