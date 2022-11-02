@@ -73,6 +73,7 @@
           <span class="hidden md:block">ตระกร้าสินค้า</span>
         </button>
         <button
+          v-if="$store.state.user"
           class="
             menu-btn
             w-7
@@ -147,6 +148,39 @@
             </div>
           </div>
         </button>
+        <button
+          v-else
+          class="
+            w-7
+            md:w-32
+            flex
+            justify-center
+            items-center
+            text-primary
+            rounded-xl
+            md:p-1
+            pl-0
+            transition-all
+            hover:bg-[rgba(108,118,234,0.1)]
+          "
+          @click="login"
+        >
+          <div
+            class="
+              bg-primary
+              h-7
+              w-7
+              rounded-full
+              flex
+              justify-center
+              items-center
+              md:mr-2
+            "
+          >
+            <FontAwesomeIcon icon="right-to-bracket" class="text-white text-sm" />
+          </div>
+          <span class="hidden md:block">เข้าสู่ระบบ</span>
+        </button>
       </div>
     </div>
   </div>
@@ -177,9 +211,7 @@ export default {
         {
           icon: 'right-from-bracket',
           text: 'ออกจากระบบ',
-          clickEvt: () => {
-            alert('Logout')
-          },
+          clickEvt: () => self.$store.commit('logout'),
         },
       ],
     }
@@ -193,6 +225,12 @@ export default {
   methods: {
     handleScroll() {
       this.isTop = !(window.scrollY > 0)
+    },
+    login() {
+      this.$store.commit('login', {
+        id: 1,
+        name: 'Meow',
+      })
     },
   },
 }

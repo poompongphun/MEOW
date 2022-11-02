@@ -15,13 +15,16 @@ import NavBar from '~/components/Layouts/NavBar.vue'
 export default {
   name: 'DefaultLayout',
   components: { MainFooter, NavBar },
+  mounted() {
+    this.$store.commit('init')
+  },
 }
 </script>
 
 <style scoped>
 .content-area {
-  --navbarHeight: 24px;
-  --footerHeight: 24px;
+  --navbarHeight: 0px;
+  --footerHeight: 360px;
   min-height: calc(100vh - var(--navbarHeight) - var(--footerHeight));
 }
 </style>

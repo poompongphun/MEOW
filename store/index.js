@@ -1,4 +1,5 @@
 export const state = () => ({
+  user: null,
   category: [
     {
       icon: 'headphones',
@@ -89,8 +90,30 @@ export const state = () => ({
     },
   ],
 })
-export const mutations = {}
-export const actions = {}
+export const mutations = {
+  login: (state, user) => {
+    state.user = user
+    localStorage.setItem('user', JSON.stringify(user))
+  },
+  logout: (state) => {
+    state.user = null
+    localStorage.removeItem('user')
+  },
+  init: (state) => {
+    // state.user = null
+    // if (process.server ? false : !!localStorage.getItem('user')) {
+    state.user = JSON.parse(localStorage.getItem('user'))
+    // }
+  },
+}
+export const actions = {
+  nuxtServerInit({ commit }, { req }) {
+    // commit('init')
+    // if (req.session && req.session.user) {
+    //   commit('login', req.session.user)
+    // }
+  },
+}
 export const getters = {
   getProductByCategory: (state) => (category) => {
     return category === ''
