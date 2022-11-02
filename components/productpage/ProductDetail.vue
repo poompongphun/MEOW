@@ -1,5 +1,5 @@
 <template>
-    <div class="grid grid-cols-2 bg-primary rounded-lg">
+    <div class="grid grid-cols-2 bg-primary rounded-lg drop-shadow-md">
         <div>
             <img class="rounded-lg aspect-square" src="https://www.jib.co.th/img_master/product/original/2022052309492353368_1.jpg"/>
         </div>
@@ -16,13 +16,13 @@
                 <div class="rounded-xl bg-white text-center p-5">
                 <p class="text-pinkwtf text-4xl font-medium">50,000 บาท</p>
                 </div>
-                <hr class="mt-5" style="border-color: #6C76EA;border-width: 1px;">
+                <hr class="mt-5" style="border-color: #6C76EA;">
                 <div class="flex justify-between rounded-lg bg-white text-center mt-5 h-14 relative">
-                    <button class="rounded-lg aspect-square h-full bg-primary"><FontAwesomeIcon class="text-white" icon="plus" /></button>
-                    <p class="text-3xl font-medium m-2">1</p>
-                    <button class="rounded-lg aspect-square h-full bg-primary"><FontAwesomeIcon class="text-white" icon="minus" /></button>
+                    <button class="rounded-lg aspect-square h-full bg-primary hover:opacity-90 transition-all disabled:opacity-50" :disabled="amount === 1" @click="amount--"><FontAwesomeIcon class="text-white" icon="minus" /></button>
+                    <p class="text-3xl font-medium m-2">{{amount}}</p>
+                    <button class="rounded-lg aspect-square h-full bg-primary hover:opacity-90 transition-all" @click="amount++"><FontAwesomeIcon class="text-white" icon="plus" /></button>
                 </div>
-                <div class="bg-primary rounded-lg mt-1 h-14 relative">
+                <div class="bg-primary rounded-lg mt-1 h-14 relative hover:opacity-90 transition-all">
                     <button class="w-full h-full text-white text-xl"><FontAwesomeIcon icon="cart-plus" /> เพิ่มลงตระกร้า</button>
                 </div>
             </div>
@@ -32,7 +32,9 @@
 
 <script>
 export default {
-    
+    data:() => ({
+        amount : 1
+    })
 }
 </script>
 
