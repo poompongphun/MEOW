@@ -11,7 +11,12 @@
         gap-2
       "
     >
-      <address-card v-for="(tyu, i) in address" :key="i" :data="tyu" />
+      <address-card
+        v-for="(tyu, i) in $store.state.address.address"
+        :key="i"
+        :data="tyu"
+        :editable="true"
+      />
       <div
         class="
           aspect-[16/7]
@@ -48,22 +53,15 @@ import AddressDialog from '~/components/Address/AddressDialog.vue'
 export default {
   name: 'AddressPage',
   components: { AddressCard, AddressDialog },
+  validate({ store, redirect }) {
+    if (!store.state.user) redirect('/')
+    return true
+  },
   data: () => ({
-    address: [
-      {
-        id: '1',
-        title: 'บ้านของหมกมุ่น',
-        fname: 'งานของแก',
-        lname: 'ชั้นแย่งละ',
-        address:
-          'ตึก อะไรสักอย่าง ห้อง 12345, เลขที่ 25/09 ซอยแลคตาซอย ถนนยางมะตอย, แขวงลาดกระบัง, เขตลาดกระบัง, กรุงเทพมหานคร, 10520',
-        tel: '0812345678',
-      },
-    ],
   }),
   methods: {
     addAddress(data) {
-      this.address.push(data)
+      this.$store.commit('address/addAddress', data)
     },
   },
 }
