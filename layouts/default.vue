@@ -17,6 +17,7 @@ export default {
   components: { MainFooter, NavBar },
   mounted() {
     this.$store.commit('init')
+    this.$store.commit('address/init')
   },
 }
 </script>
