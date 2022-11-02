@@ -39,6 +39,38 @@ export const state = () => ({
       ],
       description:
         'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
+      feature: [
+        {
+          name: 'Model',
+          detail: [
+            {
+              key: 'brand',
+              value: 'MSI',
+            },
+            {
+              key: 'Model',
+              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
+            },
+          ],
+        },
+        {
+          name: 'Specification',
+          detail: [
+            {
+              key: 'Slot',
+              value: '1 x PCIe 4.0 x16 Slot',
+            },
+            {
+              key: 'Chipset',
+              value: 'NVIDIA',
+            },
+            {
+              key: 'Series',
+              value: 'GeForce RTX™ 3090 Ti',
+            },
+          ],
+        },
+      ],
     },
     {
       id: 2,
