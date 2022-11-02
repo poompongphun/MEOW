@@ -10,7 +10,8 @@ module.exports = {
         lightPrimary: '#6C76EA',
         lightviolet: '#A6B1FE',
         grey: '#E2E2E2',
-        pinkwtf: '#F13C7F'
+        pinkwtf: '#F13C7F',
+        whtran: 'hsl(0, 100%, 100%, 0.95)'
       },
     },
   },
