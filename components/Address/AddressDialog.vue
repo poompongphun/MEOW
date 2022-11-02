@@ -80,7 +80,10 @@
             hover:opacity-90
             active:scale-95
             transition-all
+            disabled:opacity-50
+            disabled:active:scale-100
           "
+          :disabled="!title || !fname || !lname || !tel || !address"
         >
           เพิ่ม
         </button>
