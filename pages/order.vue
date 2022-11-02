@@ -1,0 +1,116 @@
+<template>
+  <div class="pt-8 px-2">
+    <div class="text-2xl font-bold">รายการคำสั่งซื้อ</div>
+    <div class="my-2">
+      <div
+        v-for="(order, i) in data"
+        :key="i"
+        class="w-full shadow-lg p-2 bg-white relative rounded-lg mb-2"
+      >
+        <div class="absolute top-0 right-0 text-center p-2">
+          <div class="px-4 py-3 border-2 border-primary rounded-lg mb-2">
+            <div class="text-xs text-stone-500 mb-[-5px]">
+              สั่งซื้อเมื่อวันที่
+            </div>
+            <div class="text-primary">{{ order.created_date }}</div>
+          </div>
+          <div class="px-4 py-2 border-2 border-yellow-400 rounded-lg">
+            <div class="text-yellow-400">{{ order.status }}</div>
+          </div>
+        </div>
+        <div
+          v-for="(item, j) in order.order"
+          :key="j"
+          class="flex justify-between items-center mb-2"
+        >
+          <div class="flex justify-start items-center gap-2">
+            <img
+              class="
+                aspect-square
+                w-36
+                h-36
+                rounded-md
+                shadow-md
+                object-contain
+                bg-white
+              "
+              :src="item.image[0]"
+              alt=""
+            />
+            <div class="flex flex-col justify-between h-36">
+              <div>
+                <div class="font-bold">{{ item.name }}</div>
+                <div class="w-[470px]">
+                  {{ item.description }}
+                </div>
+              </div>
+              <div class="my-3 text-lg text-primary">
+                {{ item.price.toLocaleString('en-us') }} บาท
+              </div>
+            </div>
+          </div>
+          <div class="shadow-md px-4 py-2 rounded-md">
+            {{ item.amount }} ชิ้น
+          </div>
+          <div></div>
+        </div>
+        <hr class="border-primary" />
+        <div class="text-primary text-right text-xl py-2 font-semibold">
+          รวม
+          {{
+            order.order
+              .reduce((partialSum, a) => partialSum + a.price, 0)
+              .toLocaleString('en-us')
+          }}
+          บาท
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'OrderPage',
+  data: () => ({
+    data: [
+      {
+        id: '1',
+        order: [
+          {
+            id: '1',
+            category: 'graphic card',
+            name: 'RTX 3090',
+            price: 50000,
+            image: [
+              'https://media.discordapp.net/attachments/1026446507194470440/1036331141831082025/IMG_9816.jpg?width=556&height=556',
+              'imglink2',
+            ],
+            description:
+              'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
+            amount: 4,
+          },
+          {
+            id: '2',
+            category: 'laptop',
+            name: 'Macbook Air M2',
+            price: 50000,
+            image: [
+              'https://media.discordapp.net/attachments/1026446507194470440/1036331141831082025/IMG_9816.jpg?width=556&height=556',
+              'imglink2',
+            ],
+            description: 'Short detail : Macbook air M2 256GB',
+            amount: 4,
+          },
+        ],
+        created_date: '2021-01-01',
+        status: 'pending',
+        payment: 'promptpay',
+      },
+    ],
+  }),
+}
+</script>
+
+<style>
+</style>
