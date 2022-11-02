@@ -2,7 +2,7 @@
   <div class="pt-8 px-2">
     <div class="text-2xl font-bold">เลือกที่อยู่</div>
     <div class="my-2">
-      <my-radio @select="select">
+      <my-radio :data="$store.state.address.address" @select="select">
         <template #default="{ data }">
           <address-card :data="data" />
         </template>
@@ -34,7 +34,17 @@
             <div class="text-xl">200,000 บาท</div>
           </div>
         </div>
-        <button class="max-w-[270px] w-full h-14 text-primary bg-white rounded-md font-bold">
+        <button
+          class="
+            max-w-[270px]
+            w-full
+            h-14
+            text-primary
+            bg-white
+            rounded-md
+            font-bold
+          "
+        >
           เลือกที่อยู่
         </button>
       </div>

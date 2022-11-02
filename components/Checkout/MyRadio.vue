@@ -1,7 +1,7 @@
 <template>
   <div class="grid grid-cols-4 gap-2">
     <div
-      v-for="(item, i) in $store.state.address.address"
+      v-for="(item, i) in data"
       :key="i"
       class="rounded-lg transition-all"
       :class="{ 'border-primary border-[3px]': selected === i }"
@@ -14,6 +14,12 @@
 
   <script>
 export default {
+  props: {
+    data: {
+      type: Array,
+      default: () => [],
+    },
+  },
   data: () => ({
     selected: null,
   }),
