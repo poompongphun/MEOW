@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="px-2">
     <ad-slider class="my-8" :images="images" />
     <div class="mb-8">
       <div class="text-2xl font-bold">หมวดหมู่สินค้า</div>

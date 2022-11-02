@@ -10,6 +10,7 @@
       z-50
       backdrop-blur-md
       transition-all
+      px-2
     "
     :class="{ 'h-20': isTop, 'h-16': !isTop, 'shadow-md': !isTop }"
   >
