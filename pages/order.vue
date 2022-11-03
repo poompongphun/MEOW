@@ -7,14 +7,16 @@
         :key="i"
         class="w-full shadow-lg p-2 bg-white relative rounded-lg mb-2"
       >
-        <div class="absolute top-0 right-0 text-center p-2">
-          <div class="px-4 py-3 border-2 border-primary rounded-lg mb-2">
+        <div class="absolute top-0 right-0 text-center p-2 z-10 invisible md:visible">
+          <div
+            class="px-4 py-3 border-2 border-primary rounded-lg mb-2 bg-white"
+          >
             <div class="text-xs text-stone-500 mb-[-5px]">
               สั่งซื้อเมื่อวันที่
             </div>
             <div class="text-primary">{{ order.created_date }}</div>
           </div>
-          <div class="px-4 py-2 border-2 border-yellow-400 rounded-lg">
+          <div class="px-4 py-2 border-2 border-yellow-400 rounded-lg bg-white">
             <div class="text-yellow-400">{{ order.status }}</div>
           </div>
         </div>
@@ -38,20 +40,26 @@
               alt=""
             />
             <div class="flex flex-col justify-between h-36">
-              <div>
-                <div class="font-bold">{{ item.name }}</div>
-                <div class="w-[470px]">
+              <div class="w-full max-w-[470px] relative">
+                <p class="font-bold w-full line1">
+                  {{ item.name }}
+                  <span class="text-black text-base">x {{ item.amount }}</span>
+                </p>
+                <div class="w-full line3">
                   {{ item.description }}
                 </div>
               </div>
-              <div class="my-3 text-lg text-primary">
-                {{ item.price.toLocaleString('en-us') }} บาท
+              <div class="my-1 text-lg text-primary">
+                {{ (item.price * item.amount).toLocaleString('en-us') }} บาท
+                <!-- <span class="text-black text-base">
+                  จำนวน {{ item.amount }}
+                </span> -->
               </div>
             </div>
           </div>
-          <div class="shadow-md px-4 py-2 rounded-md">
+          <!-- <div class="shadow-md px-4 py-2 rounded-md">
             {{ item.amount }} ชิ้น
-          </div>
+          </div> -->
           <div></div>
         </div>
         <hr class="border-primary" />
@@ -113,4 +121,20 @@ export default {
 </script>
 
 <style>
+.line3 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.line1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
 </style>
