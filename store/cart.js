@@ -6,7 +6,7 @@ export const state = () => ({
       name: 'MSI Geforce RTX 3090',
       price: 50000,
       images: [
-        'https://media.discordapp.net/attachments/1026446507194470440',
+        'https://media.discordapp.net/attachments/1026446507194470440/1036330258766516234/IMG_9816.JPG?width=420&height=560',
         'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
       ],
       description:
