@@ -76,7 +76,7 @@
             transition-all
           "
         >
-          <button class="w-full h-full text-white text-xl">
+          <button class="w-full h-full text-white text-xl" @click="addToCart">
             <FontAwesomeIcon icon="cart-plus" /> เพิ่มลงตระกร้า
           </button>
         </div>
@@ -99,6 +99,15 @@ export default {
   data: () => ({
     amount: 1,
   }),
+  methods: {
+    addToCart() {
+      this.$store.commit('cart/addCart', {
+        product: this.data,
+        amount: this.amount,
+      })
+      this.$router.push('/cart')
+    },
+  },
 }
 </script>
 
