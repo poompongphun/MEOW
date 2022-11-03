@@ -196,7 +196,7 @@ export default {
         {
           icon: 'clipboard-list',
           text: 'รายการสินค้า',
-          clickEvt: () => self.$router.push('/product'),
+          clickEvt: () => self.$router.push('/order'),
         },
         {
           icon: 'house',

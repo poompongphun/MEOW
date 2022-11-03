@@ -29,13 +29,13 @@ export const state = () => ({
   ],
   allProducts: [
     {
-      id: 1,
+      id: '1',
       category: 'graphic card',
       name: 'MSI Geforce RTX 3090',
       price: 50000,
       images: [
+        'https://media.discordapp.net/attachments/1026446507194470440/1036330258766516234/IMG_9816.JPG?width=420&height=560',
         'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'imglink2',
       ],
       description:
         'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
@@ -73,52 +73,163 @@ export const state = () => ({
       ],
     },
     {
-      id: 2,
+      id: '2',
       category: 'graphic card',
       name: 'MSI Geforce RTX 3090',
       price: 50000,
       images: [
         'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'imglink2',
+        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
       ],
       description:
         'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
+      feature: [
+        {
+          name: 'Model',
+          detail: [
+            {
+              key: 'brand',
+              value: 'MSI',
+            },
+            {
+              key: 'Model',
+              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
+            },
+          ],
+        },
+      ],
     },
     {
-      id: 3,
+      id: '3',
       category: 'graphic card',
       name: 'aMSI Geforce RTX 3090',
       price: 50000,
       images: [
         'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'imglink2',
+        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
       ],
       description:
         'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
+      feature: [
+        {
+          name: 'Model',
+          detail: [
+            {
+              key: 'brand',
+              value: 'MSI',
+            },
+            {
+              key: 'Model',
+              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
+            },
+          ],
+        },
+        {
+          name: 'Specification',
+          detail: [
+            {
+              key: 'Slot',
+              value: '1 x PCIe 4.0 x16 Slot',
+            },
+            {
+              key: 'Chipset',
+              value: 'NVIDIA',
+            },
+            {
+              key: 'Series',
+              value: 'GeForce RTX™ 3090 Ti',
+            },
+          ],
+        },
+      ],
     },
     {
-      id: 3,
+      id: '4',
       category: 'graphic card',
       name: 'bMSI Geforce RTX 3090',
       price: 60000,
       images: [
         'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'imglink2',
+        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
       ],
       description:
         'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
+      feature: [
+        {
+          name: 'Model',
+          detail: [
+            {
+              key: 'brand',
+              value: 'MSI',
+            },
+            {
+              key: 'Model',
+              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
+            },
+          ],
+        },
+        {
+          name: 'Specification',
+          detail: [
+            {
+              key: 'Slot',
+              value: '1 x PCIe 4.0 x16 Slot',
+            },
+            {
+              key: 'Chipset',
+              value: 'NVIDIA',
+            },
+            {
+              key: 'Series',
+              value: 'GeForce RTX™ 3090 Ti',
+            },
+          ],
+        },
+      ],
     },
     {
-      id: 3,
+      id: '5',
       category: 'graphic card',
       name: 'fMSI Geforce RTX 3090',
       price: 40000,
       images: [
         'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'imglink2',
+        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
       ],
       description:
         'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
+      feature: [
+        {
+          name: 'Model',
+          detail: [
+            {
+              key: 'brand',
+              value: 'MSI',
+            },
+            {
+              key: 'Model',
+              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
+            },
+          ],
+        },
+        {
+          name: 'Specification',
+          detail: [
+            {
+              key: 'Slot',
+              value: '1 x PCIe 4.0 x16 Slot',
+            },
+            {
+              key: 'Chipset',
+              value: 'NVIDIA',
+            },
+            {
+              key: 'Series',
+              value: 'GeForce RTX™ 3090 Ti',
+            },
+          ],
+        },
+      ],
     },
   ],
 })
@@ -151,5 +262,8 @@ export const getters = {
     return category === ''
       ? state.allProducts
       : state.allProducts.filter((product) => product.category === category)
+  },
+  getProductById: (state) => (id) => {
+    return state.allProducts.find((product) => product.id === id)
   },
 }

@@ -7,29 +7,20 @@
         class="rounded-lg aspect-square"
         src="https://www.jib.co.th/img_master/product/original/2022052309492353368_1.jpg"
       /> -->
-      <product-slider
-        :data="[
-          'https://media.discordapp.net/attachments/1026446507194470440/1036330258766516234/IMG_9816.JPG?width=420&height=560',
-          'https://www.jib.co.th/img_master/product/original/2022052309492353368_1.jpg',
-          'https://www.jib.co.th/img_master/product/original/2022052309492353368_1.jpg',
-          'https://www.jib.co.th/img_master/product/original/2022052309492353368_1.jpg',
-        ]"
-      />
+      <product-slider :data="data.images" />
     </div>
     <div class="flex flex-col justify-between rounded-lg bg-whtran p-8">
       <div>
-        <p class="uppercase font-medium text-3xl mb-3">MSI Geforce RTX 3090</p>
+        <p class="uppercase font-medium text-3xl mb-3">{{ data.name }}</p>
         <p class="text-lg">
-          Short detail: VGA บลาาา Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Dolor adipisci magni aliquid! Quae iure
-          necessitatibus maiores eveniet velit, perferendis voluptatem quaerat
-          temporibus obcaecati omnis architecto quod consequuntur quis aperiam
-          doloribus?
+          {{ data.description }}
         </p>
       </div>
       <div>
         <div class="rounded-xl bg-white text-center p-5">
-          <p class="text-pinkwtf text-4xl font-medium">50,000 บาท</p>
+          <p class="text-pinkwtf text-4xl font-medium">
+            {{ data.price.toLocaleString('en-us') }} บาท
+          </p>
         </div>
         <hr class="mt-5" style="border-color: #6c76ea" />
         <div
@@ -98,6 +89,13 @@
 import ProductSlider from '~/components/Swiper/ProductSlider.vue'
 export default {
   components: { ProductSlider },
+  props: {
+    data: {
+      type: Object,
+      default: () => {},
+      required: true,
+    },
+  },
   data: () => ({
     amount: 1,
   }),

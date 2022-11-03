@@ -6,8 +6,12 @@
       from-lightviolet
       to-lightBlue
       drop-shadow-md
+      cursor-pointer
+      transition-all
+      hover:scale-95
     "
     style="width: 100%"
+    @click="$router.push(`/product/${data.id}`)"
   >
     <div class="p-2">
       <img
@@ -46,20 +50,6 @@ export default {
       required: true,
     },
   },
-//   data: () => ({
-//     data: {
-//       id: 1,
-//       category: 'graphic card',
-//       name: 'MSI Geforce RTX 3090',
-//       price: 50000,
-//       images: [
-//         'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-//         'imglink2',
-//       ],
-//       description:
-//         'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
-//     },
-//   }),
 }
 </script>
 
