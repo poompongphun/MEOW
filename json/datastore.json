@@ -1,10 +1,10 @@
 [
     {
       "id": "1",
-      "category": "graphic card",
+      "category": "graphic",
       "name": "RTX 3090",
       "price": 50000,
-      "image": ["/product/1_1-1.png", "/product/1_1-2.jpg"],
+      "images": ["/product/1_1-1.png", "/product/1_1-2.jpg"],
       "description": "Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X",
       "feature": [
         {
@@ -41,10 +41,10 @@
     },
     {
         "id": "2",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX RTX 3070",
         "price": 18900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021111515045549838_1.jpg", "https://media-cdn.bnn.in.th/200489/manli-geforce-rtx3070ti-8g-1-square_medium.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021111515045549838_1.jpg", "https://media-cdn.bnn.in.th/200489/manli-geforce-rtx3070ti-8g-1-square_medium.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3070 TI GALLARDO - 8GB GDDR6X",
         "feature": [
           {
@@ -81,10 +81,10 @@
       },
       {
         "id": "3",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1050TI",
         "price": 6190,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content/3008525845/CERBERUS-GTX1050TI-O4G-02.jpg", "https://www.jib.co.th/img_master/uploads/Content/3008525845/1516703765495.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content/3008525845/CERBERUS-GTX1050TI-O4G-02.jpg", "https://www.jib.co.th/img_master/uploads/Content/3008525845/1516703765495.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS CERBERUS GTX1050TI O4G",
         "feature": [
           {
@@ -121,10 +121,10 @@
       },
       {
         "id": "4",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1660S",
         "price": 8900,
-        "image": ["https://www.jib.co.th/img_master/product/original/20191202084500_35874_24_1.png", "https://bizweb.sapocdn.net/100/329/122/products/vga-asus-tuf-gaming-geforce-gtx-1660-super-oc-edition-6gb-gddr6-tuf-gtx1660s-o6g-gaming-3.jpg?v=1661748913210"],
+        "images": ["https://www.jib.co.th/img_master/product/original/20191202084500_35874_24_1.png", "https://bizweb.sapocdn.net/100/329/122/products/vga-asus-tuf-gaming-geforce-gtx-1660-super-oc-edition-6gb-gddr6-tuf-gtx1660s-o6g-gaming-3.jpg?v=1661748913210"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS TUF GTX1660S O6G GAMING - 6GB GDDR6",
         "feature": [
           {
@@ -161,10 +161,10 @@
       },
       {
         "id": "5",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RX6900XT",
         "price": 49900,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content/3008526905/2011251932160.jpg", "https://www.jib.co.th/img_master/uploads/Content/3008526905/2011251941180.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content/3008526905/2011251932160.jpg", "https://www.jib.co.th/img_master/uploads/Content/3008526905/2011251941180.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) POWER COLOR RED DEVIL RX6900XT 16GB GDDR6",
         "feature": [
           {
@@ -201,10 +201,10 @@
       },
       {
         "id": "6",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GT1030",
         "price": 3650,
-        "image": ["https://static.gigabyte.com/StaticFile/Image/Global/56831ac193b71920796941cd99854840/Product/17449/png/1000", "https://img.advice.co.th/images_nas/advice_activity/202105223141541445.png"],
+        "images": ["https://static.gigabyte.com/StaticFile/images/Global/56831ac193b71920796941cd99854840/Product/17449/png/1000", "https://img.advice.co.th/imagess_nas/advice_activity/202105223141541445.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GT1030 DDR5 2GB 64-BIT",
         "feature": [
           {
@@ -241,10 +241,10 @@
       },
       {
         "id": "7",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1660",
         "price": 8990,
-        "image": ["https://www.gigabyte.com/FileUpload/Global/KeyFeature/1303/img/vga/02.png", "https://www.gigabyte.com/FileUpload/Global/KeyFeature/1303/img/vga/09.png"],
+        "images": ["https://www.gigabyte.com/FileUpload/Global/KeyFeature/1303/img/vga/02.png", "https://www.gigabyte.com/FileUpload/Global/KeyFeature/1303/img/vga/09.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GEFORCE GTX1660 SUPER OC 6G - 6GB GDDR6",
         "feature": [
           {
@@ -281,10 +281,10 @@
       },
       {
         "id": "8",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1050TI",
         "price": 5950,
-        "image": ["https://www.jib.co.th/img_master/product/original/20190122102013_24077_22_1.jpg", "https://cf.shopee.co.th/file/14e676a59dd6a59e39b3662c845fa01e"],
+        "images": ["https://www.jib.co.th/img_master/product/original/20190122102013_24077_22_1.jpg", "https://cf.shopee.co.th/file/14e676a59dd6a59e39b3662c845fa01e"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS PH GTX1050TI 4G",
         "feature": [
           {
@@ -321,10 +321,10 @@
       },
       {
         "id": "9",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090",
         "price": 3490,
-        "image": ["https://www.jib.co.th/img_master/product/original/20190122103910_25988_22_1.jpg", "https://philong.com.vn/media/product/7585_vga_card_asus_ph_gt1030_o2g_ddr5_64bit_2.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/20190122103910_25988_22_1.jpg", "https://philong.com.vn/media/product/7585_vga_card_asus_ph_gt1030_o2g_ddr5_64bit_2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS PH-GT1030 O2G",
         "feature": [
           {
@@ -361,10 +361,10 @@
       },
       {
         "id": "10",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3070 TI ",
         "price": 18500,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021061415470047136_1.jpg", "https://m.media-amazon.com/images/I/71F-4DwWf-L.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021061415470047136_1.jpg", "https://m.media-amazon.com/imagess/I/71F-4DwWf-L.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3070 TI - 8GB GDDR6X",
         "feature": [
           {
@@ -401,10 +401,10 @@
       },
       {
         "id": "11",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090 SG",
         "price": 41900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2020092413223442809_1.jpg", "https://storage.googleapis.com/file-computeandmore/large_images/886815f8-aa83-4a44-9d72-81c9a8ab3dbe.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2020092413223442809_1.jpg", "https://storage.googleapis.com/file-computeandmore/large_imagess/886815f8-aa83-4a44-9d72-81c9a8ab3dbe.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3090 SG",
         "feature": [
           {
@@ -441,10 +441,10 @@
       },
       {
         "id": "12",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX3070TI",
         "price": 25400,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021061414554547135_1.jpg", "https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/518ce17588e302b745dabc67694c738a/original.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021061414554547135_1.jpg", "https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/518ce17588e302b745dabc67694c738a/original.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS ROG STRIX RTX3070TI O8G GAMING",
         "feature": [
           {
@@ -481,10 +481,10 @@
       },
       {
         "id": "13",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090",
         "price": 38900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2020092413461342812_1.jpg", "https://c1.neweggimages.com/ProductImage/14-932-327-V11.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2020092413461342812_1.jpg", "https://c1.neweggimagess.com/Productimages/14-932-327-V11.jpg"],
         "description": "VGA (การ์ดแสดงผล) GIGABYTE GEFORCE RTX 3090 GAMING OC",
         "feature": [
           {
@@ -521,10 +521,10 @@
       },
       {
         "id": "14",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3060 TI",
         "price": 14900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2022050914583653019_1.jpg", "https://media-cdn.bnn.in.th/208442/manli-rtx3060ti-lhr-8gb-1-square_medium.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2022050914583653019_1.jpg", "https://media-cdn.bnn.in.th/208442/manli-rtx3060ti-lhr-8gb-1-square_medium.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3060 TI LHR - 8GB GDDR6",
         "feature": [
           {
@@ -561,10 +561,10 @@
       },
       {
         "id": "15",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1660",
         "price": 8290,
-        "image": ["https://static.gigabyte.com/StaticFile/Image/Global/453c9a0d7cdcf648bd239eefa8dd5975/Product/22932/png/500", "https://www.dateks.lv/images/pic/2400/2400/903/372.jpg"],
+        "images": ["https://static.gigabyte.com/StaticFile/images/Global/453c9a0d7cdcf648bd239eefa8dd5975/Product/22932/png/500", "https://www.dateks.lv/imagess/pic/2400/2400/903/372.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GTX1660 OC 6G 6GB GDDR5",
         "feature": [
           {
@@ -601,10 +601,10 @@
       },
       {
         "id": "16",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090",
         "price": 39900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2020101208463243063_1.jpg", "https://img.advice.co.th/images_nas/pic_product4/A0133274/A0133274OK_BIG_4.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2020101208463243063_1.jpg", "https://img.advice.co.th/imagess_nas/pic_product4/A0133274/A0133274OK_BIG_4.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MSI RTX3090 VENTUS 3X 24GB OC DDR6X",
         "feature": [
           {
@@ -641,10 +641,10 @@
       },
       {
         "id": "17",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX 1050 Ti",
         "price": 6190,
-        "image": ["https://asset.msi.com/resize/image/global/product/product_9_20180411114452_5acd84b422981.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png", "https://media-cdn.bnn.in.th/28278/4719072518561-2-square_medium.jpg"],
+        "images": ["https://asset.msi.com/resize/images/global/product/product_9_20180411114452_5acd84b422981.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png", "https://media-cdn.bnn.in.th/28278/4719072518561-2-square_medium.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MSI GTX 1050 Ti 4GT OCV1",
         "feature": [
           {
@@ -681,10 +681,10 @@
       },
       {
         "id": "18",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1650",
         "price": 7190,
-        "image": ["https://www.asus.com/media/global/gallery/q9qcrfsypt27nqos_setting_xxx_0_90_end_2000.png", "https://www.asus.com/media/global/gallery/6XFocvioFE8YRj9F_setting_xxx_0_90_end_800.png"],
+        "images": ["https://www.asus.com/media/global/gallery/q9qcrfsypt27nqos_setting_xxx_0_90_end_2000.png", "https://www.asus.com/media/global/gallery/6XFocvioFE8YRj9F_setting_xxx_0_90_end_800.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS DUAL GTX1650 O4G 4GB GDDR5",
         "feature": [
           {
@@ -721,10 +721,10 @@
       },
       {
         "id": "19",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3070 TI",
         "price": 21900,
-        "image": ["imglink1", "imglink2"],
+        "images": ["imglink1", "imglink2"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GEFORCE RTX 3070 TI GAMING OC 8G - 8GB GDDR6X",
         "feature": [
           {
@@ -761,10 +761,10 @@
       },
       {
         "id": "20",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3060",
         "price": 14500,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -804,7 +804,7 @@
         "category": "microphone",
         "name": "HyperX QUADCAST STANDALONE",
         "price": 4390,
-        "image": ["https://www.jib.co.th/img_master/uploads/NYX/102019/21102019/hx-keyfeatures-audio-mic-quadcast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/NYX/102019/21102019/hx-keyfeatures-audio-mic-quadcast-2-lg.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/NYX/102019/21102019/hx-keyfeatures-audio-mic-quadcast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/NYX/102019/21102019/hx-keyfeatures-audio-mic-quadcast-2-lg.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX QUADCAST STANDALONE",
         "feature": [
           {
@@ -844,7 +844,7 @@
         "category": "microphone",
         "name": "HyperX SOLOCAST",
         "price": 1990,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content/1913495106/hx-keyfeatures-audio-mic-solocast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/Content/1913495106/hx-keyfeatures-audio-mic-solocast-2-lg.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content/1913495106/hx-keyfeatures-audio-mic-solocast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/Content/1913495106/hx-keyfeatures-audio-mic-solocast-2-lg.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX SOLOCAST",
         "feature": [
           {
@@ -884,7 +884,7 @@
         "category": "microphone",
         "name": "SIGNO MP-701 CONDENSER MICROPHONE",
         "price": 760,
-        "image": ["https://www.gump.in.th/uploaded_files/images/Signo%20eSport/701-1.jpg", "https://www.gump.in.th/uploaded_files/images/Signo%20eSport/701-2.jpg"],
+        "images": ["https://www.gump.in.th/uploaded_files/imagess/Signo%20eSport/701-1.jpg", "https://www.gump.in.th/uploaded_files/imagess/Signo%20eSport/701-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) SIGNO MP-701 CONDENSER MICROPHONE (BLACK)",
         "feature": [
           {
@@ -924,7 +924,7 @@
         "category": "microphone",
         "name": "NUBWO CYPHER X300",
         "price": 2390,
-        "image": ["https://www.jib.co.th/img_master/product/original/2019080916525134747_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2020/01/IMG_1553-Edit.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2019080916525134747_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2020/01/IMG_1553-Edit.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) NUBWO CYPHER X300 96KHz",
         "feature": [
           {
@@ -964,7 +964,7 @@
         "category": "microphone",
         "name": "HyperX QUADCAST S STANDALONE",
         "price": 5990,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content/1913495109/hx-keyfeatures-audio-mic-quadcast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/Content/1913495109/hx-keyfeatures-audio-mic-quadcast-2-lg.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content/1913495109/hx-keyfeatures-audio-mic-quadcast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/Content/1913495109/hx-keyfeatures-audio-mic-quadcast-2-lg.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX QUADCAST S STANDALONE",
         "feature": [
           {
@@ -1004,7 +1004,7 @@
         "category": "microphone",
         "name": "FANTECH LEVIOSA MCX01 USB",
         "price": 1290,
-        "image": ["https://www.jib.co.th/img_master/product/original/2020100816454843057_1.jpg", "https://img.advice.co.th/images_nas/pic_product4/A0134426/A0134426OK_BIG_1.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2020100816454843057_1.jpg", "https://img.advice.co.th/imagess_nas/pic_product4/A0134426/A0134426OK_BIG_1.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) FANTECH LEVIOSA MCX01 USB",
         "feature": [
           {
@@ -1044,7 +1044,7 @@
         "category": "microphone",
         "name": "RAZER SEIREN MINI",
         "price": 1590,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content/001_Temp/202011/9301332514/100-01.jpg", "https://www.jib.co.th/img_master/uploads/Content/001_Temp/202011/9301332514/100-02.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content/001_Temp/202011/9301332514/100-01.jpg", "https://www.jib.co.th/img_master/uploads/Content/001_Temp/202011/9301332514/100-02.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) RAZER SEIREN MINI (BLACK)",
         "feature": [
           {
@@ -1084,7 +1084,7 @@
         "category": "microphone",
         "name": "AVERMEDIA AM310",
         "price": 3490,
-        "image": ["https://www.digital2home.com/wp-content/uploads/2019/06/AVERMEDIA-AM310-USB-Microphone-01.jpg", "https://www.zoomcamera.net/wp-content/uploads/2019/08/AVerMedia-AM310-USB-Microphone-3.jpg"],
+        "images": ["https://www.digital2home.com/wp-content/uploads/2019/06/AVERMEDIA-AM310-USB-Microphone-01.jpg", "https://www.zoomcamera.net/wp-content/uploads/2019/08/AVerMedia-AM310-USB-Microphone-3.jpg"],
         "description": "MICROPHONE (ไมโครโฟน) AVERMEDIA AM310",
         "feature": [
           {
@@ -1124,7 +1124,7 @@
         "category": "microphone",
         "name": "NUBWO M66 CONDENSER MICROPHONE",
         "price": 230,
-        "image": ["https://www.jib.co.th/img_master/product/original/2020042909115038442_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2018/11/2-1-4.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2020042909115038442_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2018/11/2-1-4.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) NUBWO M66 CONDENSER MICROPHONE",
         "feature": [
           {
@@ -1164,7 +1164,7 @@
         "category": "microphone",
         "name": "ELGATO WAVE 1",
         "price": 4590,
-        "image": ["https://www.digital2home.com/wp-content/uploads/2021/11/elgato-wave-1-4.jpg", "https://www.ec-mall.com/wp-content/uploads/2020/09/Elgato-Wave-1-Premium-Microphone-and-Digital-Mixing-Solution-1.jpg"],
+        "images": ["https://www.digital2home.com/wp-content/uploads/2021/11/elgato-wave-1-4.jpg", "https://www.ec-mall.com/wp-content/uploads/2020/09/Elgato-Wave-1-Premium-Microphone-and-Digital-Mixing-Solution-1.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) ELGATO WAVE 1",
         "feature": [
           {
@@ -1204,7 +1204,7 @@
         "category": "microphone",
         "name": "SIGNO MP-705 MAXXON - PROFESSIONAL CONDENSER MICROPHONE",
         "price": 1390,
-        "image": ["https://www.jib.co.th/img_master/product/original/20211126143610_48185_66_1.jpg", "https://www.gump.in.th/uploaded_files/images/Signo%20eSport/MP705%20-%2009.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/20211126143610_48185_66_1.jpg", "https://www.gump.in.th/uploaded_files/imagess/Signo%20eSport/MP705%20-%2009.jpg"],
         "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) SIGNO MP-705 MAXXON - PROFESSIONAL CONDENSER MICROPHONE",
         "feature": [
           {
@@ -1244,7 +1244,7 @@
         "category": "microphone",
         "name": "NUBWO M24 CONDENSER MICROPHONE",
         "price": 549,
-        "image": ["https://www.nubwo.co.th/wp-content/uploads/2021/07/WEBVISUAL-m24-1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2021/07/WEBVISUAL-m24-2.jpg"],
+        "images": ["https://www.nubwo.co.th/wp-content/uploads/2021/07/WEBVISUAL-m24-1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2021/07/WEBVISUAL-m24-2.jpg"],
         "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) NUBWO M24 CONDENSER MICROPHONE",
         "feature": [
           {
@@ -1284,7 +1284,7 @@
         "category": "microphone",
         "name": "NUBWO ECLIPSE M32",
         "price": 240,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021021111273545280_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2021/02/Virtual_M32_210204_0.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021021111273545280_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2021/02/Virtual_M32_210204_0.jpg"],
         "description": "MICROPHONE (ไมโครโฟน) NUBWO ECLIPSE M32",
         "feature": [
           {
@@ -1324,7 +1324,7 @@
         "category": "microphone",
         "name": "FANTECH LEVIOSA LIVE MCX02 USB",
         "price": 3490,
-        "image": ["https://media-cdn.bnn.in.th/116985/AVerMedia-Live-Streamer-MIC-330-AM330-1.jpg", "https://cdn.shopify.com/s/files/1/0707/6073/products/AM330-6_800x.jpg?v=1631838239"],
+        "images": ["https://media-cdn.bnn.in.th/116985/AVerMedia-Live-Streamer-MIC-330-AM330-1.jpg", "https://cdn.shopify.com/s/files/1/0707/6073/products/AM330-6_800x.jpg?v=1631838239"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) FANTECH LEVIOSA LIVE MCX02 USB",
         "feature": [
           {
@@ -1364,7 +1364,7 @@
         "category": "microphone",
         "name": "COUGAR SCREAMER-X",
         "price": 4990,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content/9207001890/screamerx-banner-1.jpg", "https://www.jib.co.th/img_master/uploads/Content/9207001890/product-section_2-4-1.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content/9207001890/screamerx-banner-1.jpg", "https://www.jib.co.th/img_master/uploads/Content/9207001890/product-section_2-4-1.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) COUGAR SCREAMER-X",
         "feature": [
           {
@@ -1404,7 +1404,7 @@
         "category": "microphone",
         "name": "RAZER SEIREN V2 X",
         "price": 3890,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content2021/9301332568/razer-seiren-v2-x-hero-desktop.jpg", "https://www.jib.co.th/img_master/uploads/Content2021/9301332568/razer-seiren-v2-x-steady-quality-desktop.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content2021/9301332568/razer-seiren-v2-x-hero-desktop.jpg", "https://www.jib.co.th/img_master/uploads/Content2021/9301332568/razer-seiren-v2-x-steady-quality-desktop.jpg"],
         "description": "MICROPHONE (ไมโครโฟน) RAZER SEIREN V2 X",
         "feature": [
           {
@@ -1444,7 +1444,7 @@
         "category": "microphone",
         "name": "EPOS STREAMING MICROPHONE B20 (B20)",
         "price": 6990,
-        "image": ["https://www.jib.co.th/img_master/uploads/fernfaleyy/B20_-_05.jpg", "https://www.jib.co.th/img_master/uploads/fernfaleyy/fern/B20_-_02.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/fernfaleyy/B20_-_05.jpg", "https://www.jib.co.th/img_master/uploads/fernfaleyy/fern/B20_-_02.jpg"],
         "description": "MICROPHONE (ไมโครโฟน) EPOS STREAMING MICROPHONE B20 (B20)",
         "feature": [
           {
@@ -1484,7 +1484,7 @@
         "category": "microphone",
         "name": "NUBWO X400 KIT SEEKER 96KHZ",
         "price": 1590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2019121008393635933_1.jpg", "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2022/03/Nubwo%20X400%20KIT%20Seeker%20Microphone%20-%203.jpg"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2019121008393635933_1.jpg", "https://mercular.s3.ap-southeast-1.amazonaws.com/imagess/products/2022/03/Nubwo%20X400%20KIT%20Seeker%20Microphone%20-%203.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -1524,7 +1524,7 @@
         "category": "microphone",
         "name": "BLUE YETI",
         "price": 6990,
-        "image": ["https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2019/01/Blue-Yeti-1.jpg", "https://www.zoomcamera.net/wp-content/uploads/2021/08/Blue-Yeti-X-Professional-Condenser-USB-Microphone-with-High-Res-Metering-1.jpg"],
+        "images": ["https://mercular.s3.ap-southeast-1.amazonaws.com/imagess/products/2019/01/Blue-Yeti-1.jpg", "https://www.zoomcamera.net/wp-content/uploads/2021/08/Blue-Yeti-X-Professional-Condenser-USB-Microphone-with-High-Res-Metering-1.jpg"],
         "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) BLUE YETI (BLACKOUT)",
         "feature": [
           {
@@ -1564,7 +1564,7 @@
         "category": "microphone",
         "name": "FIFINE K678",
         "price": 2390,
-        "image": ["https://www.jib.co.th/img_master/uploads/Content2021/1320000008/pf-466d8bac--Georgi-Petrov-678.jpg", "https://www.jib.co.th/img_master/uploads/Content2021/1320000008/pf-a5ff8365--Touch-Technology-Review-K678.jpg"],
+        "images": ["https://www.jib.co.th/img_master/uploads/Content2021/1320000008/pf-466d8bac--Georgi-Petrov-678.jpg", "https://www.jib.co.th/img_master/uploads/Content2021/1320000008/pf-a5ff8365--Touch-Technology-Review-K678.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) FIFINE K678",
         "feature": [
           {
@@ -1604,7 +1604,7 @@
         "category": "headphone",
         "name": "LENOVO YOGA ACTIVE NOISE CANCELLATION",
         "price": 3990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADPHONE (หูฟังไร้สาย) LENOVO YOGA ACTIVE NOISE CANCELLATION",
         "feature": [
           {
@@ -1644,7 +1644,7 @@
         "category": "headphone",
         "name": "B&O BEOPLAY HX",
         "price": 23000,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : BLUETOOTH HEADPHONE (หูฟังบลูทูธ) B&O BEOPLAY HX (BLACK ANTHRACITE)",
         "feature": [
           {
@@ -1684,7 +1684,7 @@
         "category": "headphone",
         "name": "HyperX CLOUD STINGER S 7.1",
         "price": 1990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) HyperX CLOUD STINGER S 7.1",
         "feature": [
           {
@@ -1724,7 +1724,7 @@
         "category": "headphone",
         "name": "ONIKUMA K9 - USB / 7.1 VIRTUAL SURROUND",
         "price": 1150,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : USB HEADSET (หูฟังยูเอสบี) ONIKUMA K9 - USB / 7.1 VIRTUAL SURROUND",
         "feature": [
           {
@@ -1764,7 +1764,7 @@
         "category": "headphone",
         "name": "HyperX CLOUD MIX WIRED GAMING HEADSET + BLUETOOTH",
         "price": 5190,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : BLUETOOTH HEADSET (หูฟังบลูทูธ) HyperX CLOUD MIX WIRED GAMING HEADSET + BLUETOOTH",
         "feature": [
           {
@@ -1804,7 +1804,7 @@
         "category": "headphone",
         "name": "ONIKUMA K10",
         "price": 790,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) ONIKUMA K10 - 3.5 MM",
         "feature": [
           {
@@ -1844,7 +1844,7 @@
         "category": "headphone",
         "name": "JBL QUANTUM 200",
         "price": 1990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 200",
         "feature": [
           {
@@ -1884,7 +1884,7 @@
         "category": "headphone",
         "name": "RAZER BLACKSHARK V2",
         "price": 3590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) RAZER BLACKSHARK V2",
         "feature": [
           {
@@ -1924,7 +1924,7 @@
         "category": "headphone",
         "name": "SIGNO HP-823 PALAZZO",
         "price": 900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) SIGNO HP-823 PALAZZO",
         "feature": [
           {
@@ -1964,7 +1964,7 @@
         "category": "headphone",
         "name": "RAZER KRAKEN BT",
         "price": 3590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : BLUETOOTH HEADSET (หูฟังบลูทูธ) RAZER KRAKEN BT",
         "feature": [
           {
@@ -2004,7 +2004,7 @@
         "category": "headphone",
         "name": "SIGNO HP-826 AUGUSTA - 7.1 SURROUND SOUND GAMING HEADPHONE",
         "price": 950,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -2044,7 +2044,7 @@
         "category": "headphone",
         "name": "RAZER KRAKEN V3 X",
         "price": 1590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : USB HEADSET (หูฟังยูเอสบี) RAZER KRAKEN V3 X",
         "feature": [
           {
@@ -2084,7 +2084,7 @@
         "category": "headphone",
         "name": "JBL QUANTUM 100",
         "price": 1890,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 100",
         "feature": [
           {
@@ -2124,7 +2124,7 @@
         "category": "headphone",
         "name": "BL QUANTUM 400",
         "price": 3990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 400",
         "feature": [
           {
@@ -2164,7 +2164,7 @@
         "category": "headphone",
         "name": "JBL QUANTUM 300",
         "price": 2990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 300",
         "feature": [
           {
@@ -2204,7 +2204,7 @@
         "category": "headphone",
         "name": "CORSAIR VIRTUOSO RGB WIRELESS HIGH-FIDELITY GAMING HEADSET",
         "price": 6790,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS HEADSET (หูฟังไร้สาย) CORSAIR VIRTUOSO RGB WIRELESS HIGH-FIDELITY GAMING HEADSET - PEARL",
         "feature": [
           {
@@ -2244,7 +2244,7 @@
         "category": "headphone",
         "name": "ONIKUMA K9 POWER HONOR - 7.1 VIRTUAL SURROUND ",
         "price": 1150,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -2284,7 +2284,7 @@
         "category": "headphone",
         "name": "CORSAIR VIRTUOSO RGB WIRELESS XT HIGH-FIDELITY GAMING HEADSET",
         "price": 9900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS HEADSET (หูฟังไร้สาย) CORSAIR VIRTUOSO RGB WIRELESS XT HIGH-FIDELITY GAMING HEADSET",
         "feature": [
           {
@@ -2324,7 +2324,7 @@
         "category": "headphone",
         "name": "COUGAR IMMERSA ESSENTIAL",
         "price": 1190,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : HEADSET (หูฟัง) COUGAR IMMERSA ESSENTIAL",
         "feature": [
           {
@@ -2364,7 +2364,7 @@
         "category": "headphone",
         "name": "YAMAHA YH-E700A",
         "price": 12900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS HEADPHONE (หูฟังไร้สาย) YAMAHA YH-E700A",
         "feature": [
           {
@@ -2404,7 +2404,7 @@
         "category": "mouse",
         "name": "NUBWO BALROG X43 PLUS ",
         "price": 349,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) NUBWO BALROG X43 PLUS (BLACK)",
         "feature": [
           {
@@ -2444,7 +2444,7 @@
         "category": "mouse",
         "name": "RAZER DEATHADDER V3 PRO",
         "price": 5690,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER DEATHADDER V3 PRO",
         "feature": [
           {
@@ -2484,7 +2484,7 @@
         "category": "mouse",
         "name": "S-GEAR GAMING RGB",
         "price": 890,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) S-GEAR GAMING RGB",
         "feature": [
           {
@@ -2524,7 +2524,7 @@
         "category": "mouse",
         "name": "HyperX PULSEFIRE",
         "price": 2690,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) HyperX PULSEFIRE HASTE WIRELESS ",
         "feature": [
           {
@@ -2564,7 +2564,7 @@
         "category": "mouse",
         "name": "STEELSERIES AEROX 3 WIRELESS BLACK ONYX 2022 EDITION",
         "price": 4290,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) STEELSERIES AEROX 3 WIRELESS BLACK ONYX 2022 EDITION",
         "feature": [
           {
@@ -2604,7 +2604,7 @@
         "category": "mouse",
         "name": "STEELSERIES AEROX 3 BLACK ONYX 2022 EDITION",
         "price": 2990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) STEELSERIES AEROX 3 BLACK ONYX 2022 EDITION",
         "feature": [
           {
@@ -2644,7 +2644,7 @@
         "category": "mouse",
         "name": "LOGITECH G G502X",
         "price": 2690,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) LOGITECH G G502X BLACK",
         "feature": [
           {
@@ -2684,7 +2684,7 @@
         "category": "mouse",
         "name": "LOGITECH G G502X PLUS RGB WIRELESS",
         "price": 5590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) LOGITECH G G502X PLUS RGB WIRELESS",
         "feature": [
           {
@@ -2724,7 +2724,7 @@
         "category": "mouse",
         "name": "RAZER BASILISK V3 PRO",
         "price": 5590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER BASILISK V3 PRO",
         "feature": [
           {
@@ -2764,7 +2764,7 @@
         "category": "mouse",
         "name": "RAZER DEATHADDER V3 PRO",
         "price": 5690,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER DEATHADDER V3 PRO",
         "feature": [
           {
@@ -2804,7 +2804,7 @@
         "category": "mouse",
         "name": "HyperX PULSEFIRE CORE RGB",
         "price": 990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) HyperX PULSEFIRE CORE RGB",
         "feature": [
           {
@@ -2844,7 +2844,7 @@
         "category": "mouse",
         "name": "COOLER MASTER MM731 RGB GAMING MOUSE",
         "price": 2190,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) COOLER MASTER MM731 RGB GAMING MOUSE",
         "feature": [
           {
@@ -2884,7 +2884,7 @@
         "category": "mouse",
         "name": "COOLER MASTER MM310 WIRED GAMING MOUSE",
         "price": 1290,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) COOLER MASTER MM310 WIRED GAMING MOUSE [MM-310-KKOL1]",
         "feature": [
           {
@@ -2924,7 +2924,7 @@
         "category": "mouse",
         "name": "ZOWIE FK1+-C BLACK",
         "price": 2590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) ZOWIE FK1+-C BLACK",
         "feature": [
           {
@@ -2964,7 +2964,7 @@
         "category": "mouse",
         "name": "GLORIOUS MODEL I MATTE",
         "price": 2090,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) GLORIOUS MODEL I MATTE",
         "feature": [
           {
@@ -3004,7 +3004,7 @@
         "category": "mouse",
         "name": "RAZER VIPER V2 PRO",
         "price": 5490,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER VIPER V2 PRO",
         "feature": [
           {
@@ -3044,7 +3044,7 @@
         "category": "mouse",
         "name": "HYPERX PULSEFIRE HASTE",
         "price": 1490,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) HYPERX PULSEFIRE HASTE",
         "feature": [
           {
@@ -3084,7 +3084,7 @@
         "category": "mouse",
         "name": "TEELSERIES SENSEI TEN",
         "price": 2490,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : MOUSE (เมาส์) STEELSERIES SENSEI TEN",
         "feature": [
           {
@@ -3124,7 +3124,7 @@
         "category": "mouse",
         "name": "GLORIOUS MODEL D-",
         "price": 3590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) GLORIOUS MODEL D- WIRELESS MATTE WHITE",
         "feature": [
           {
@@ -3164,7 +3164,7 @@
         "category": "mouse",
         "name": "ACER PREDATOR CESTUS 350",
         "price": 14500,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) ACER PREDATOR CESTUS 350",
         "feature": [
           {
@@ -3204,7 +3204,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE VERO AV15-51-518U",
         "price": 21900,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE VERO AV15-51-518U ",
         "feature": [
           {
@@ -3244,7 +3244,7 @@
         "category": "laptop",
         "name": "ASUS M515DA-BQ303T",
         "price": 13990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BQ303T",
         "feature": [
           {
@@ -3284,7 +3284,7 @@
         "category": "laptop",
         "name": "ASUS VIVOBOOK 14 X1402ZA-EB501WS",
         "price": 22990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK 14 X1402ZA-EB501WS",
         "feature": [
           {
@@ -3324,7 +3324,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE 3 A315-23-R69S",
         "price": 12990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 3 A315-23-R69S",
         "feature": [
           {
@@ -3364,7 +3364,7 @@
         "category": "laptop",
         "name": "LENOVO IDEAPAD 3 15ITL05-81X800L4TA",
         "price": 15990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) LENOVO IDEAPAD 3 15ITL05-81X800L4TA ",
         "feature": [
           {
@@ -3404,7 +3404,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE 7 A715-42G-R4KZ",
         "price": 24990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 7 A715-42G-R4KZ",
         "feature": [
           {
@@ -3444,7 +3444,7 @@
         "category": "laptop",
         "name": "HP 15S-FQ5085TU",
         "price": 21990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-FQ5085TU",
         "feature": [
           {
@@ -3484,7 +3484,7 @@
         "category": "laptop",
         "name": "ASUS X515JA-BQ311W",
         "price": 13990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS X515JA-BQ311W",
         "feature": [
           {
@@ -3524,7 +3524,7 @@
         "category": "laptop",
         "name": "ASUS E410MA-EKP01W",
         "price": 11990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS E410MA-EKP01W",
         "feature": [
           {
@@ -3564,7 +3564,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE 5 A515-45-R3VH ",
         "price": 21990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 5 A515-45-R3VH ",
         "feature": [
           {
@@ -3604,7 +3604,7 @@
         "category": "laptop",
         "name": "ASUS X415FA-BV301T",
         "price": 15590,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS X415FA-BV301T",
         "feature": [
           {
@@ -3644,7 +3644,7 @@
         "category": "laptop",
         "name": "HP 15S-FQ5086TU",
         "price": 17490,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-FQ5086TU",
         "feature": [
           {
@@ -3684,7 +3684,7 @@
         "category": "laptop",
         "name": "ASUS VIVOBOOK 15 X1500EA-BR599W",
         "price": 16500,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK 15 X1500EA-BR599W",
         "feature": [
           {
@@ -3724,7 +3724,7 @@
         "category": "laptop",
         "name": "LENOVO IDEAPAD 3 14ITL05-81X700ENTA",
         "price": 19990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) LENOVO IDEAPAD 3 14ITL05-81X700ENTA",
         "feature": [
           {
@@ -3764,7 +3764,7 @@
         "category": "laptop",
         "name": "ASUS M515DA-BR301W",
         "price": 13990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BR301W",
         "feature": [
           {
@@ -3804,7 +3804,7 @@
         "category": "laptop",
         "name": "HP 15S-EQ3001AU",
         "price": 22990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-EQ3001AU ",
         "feature": [
           {
@@ -3844,7 +3844,7 @@
         "category": "laptop",
         "name": "ASUS M515DA-BR302W",
         "price": 13990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BR302W",
         "feature": [
           {
@@ -3884,7 +3884,7 @@
         "category": "laptop",
         "name": "ASUS VIVOBOOK PRO 15 D6500QE-HN701W",
         "price": 32990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK PRO 15 D6500QE-HN701W",
         "feature": [
           {
@@ -3924,7 +3924,7 @@
         "category": "laptop",
         "name": "LENOVO YOGA SLIM 9 14ITL (82D1008PTA) I7-1195G7 16G 1TSSD W11",
         "price": 63990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : LENOVO YOGA SLIM 9 14ITL",
         "feature": [
           {
@@ -3964,7 +3964,7 @@
         "category": "laptop",
         "name": "HP PAVILION 14-EH0029TX",
         "price": 41990,
-        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "images": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/images/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP PAVILION 14-EH0029TX ",
         "feature": [
           {
@@ -4000,4 +4000,3 @@
         ]
       }
   ]
-  
