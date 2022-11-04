@@ -1,0 +1,4003 @@
+[
+    {
+      "id": "1",
+      "category": "graphic card",
+      "name": "RTX 3090",
+      "price": 50000,
+      "image": ["/product/1_1-1.png", "/product/1_1-2.jpg"],
+      "description": "Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X",
+      "feature": [
+        {
+          "name": "Model",
+          "detail": [
+            {
+              "key": "brand",
+              "value": "MSI"
+            },
+            {
+              "key": "Model",
+              "value": "GeForce RTX™ 3090 Ti SUPRIM X 24G"
+            }
+          ]
+        },
+        {
+          "name": "Specification",
+          "detail": [
+            {
+              "key": "Slot",
+              "value": "1 x PCIe 4.0 x16 Slot"
+            },
+            {
+              "key": "Chipset",
+              "value": "NVIDIA"
+            },
+            {
+              "key": "Series",
+              "value": "GeForce RTX™ 3090 Ti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "id": "2",
+        "category": "graphic card",
+        "name": "RTX RTX 3070",
+        "price": 18900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021111515045549838_1.jpg", "https://media-cdn.bnn.in.th/200489/manli-geforce-rtx3070ti-8g-1-square_medium.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3070 TI GALLARDO - 8GB GDDR6X",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Manli"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce RTX 3070 Ti Gallardo"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "GeForce RTX 3070 Ti"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "category": "graphic card",
+        "name": "GTX1050TI",
+        "price": 6190,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content/3008525845/CERBERUS-GTX1050TI-O4G-02.jpg", "https://www.jib.co.th/img_master/uploads/Content/3008525845/1516703765495.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) ASUS CERBERUS GTX1050TI O4G",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Asus"
+              },
+              {
+                "key": "Model",
+                "value": "CERBERUS-GTX1050TI-O4G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 10 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "category": "graphic card",
+        "name": "GTX1660S",
+        "price": 8900,
+        "image": ["https://www.jib.co.th/img_master/product/original/20191202084500_35874_24_1.png", "https://bizweb.sapocdn.net/100/329/122/products/vga-asus-tuf-gaming-geforce-gtx-1660-super-oc-edition-6gb-gddr6-tuf-gtx1660s-o6g-gaming-3.jpg?v=1661748913210"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) ASUS TUF GTX1660S O6G GAMING - 6GB GDDR6",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Asus"
+              },
+              {
+                "key": "Model",
+                "value": "TUF-GTX1660S-O6G-GAMING"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 16 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "category": "graphic card",
+        "name": "RX6900XT",
+        "price": 49900,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content/3008526905/2011251932160.jpg", "https://www.jib.co.th/img_master/uploads/Content/3008526905/2011251941180.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) POWER COLOR RED DEVIL RX6900XT 16GB GDDR6",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Power Color"
+              },
+              {
+                "key": "Model",
+                "value": "Red Devil AMD Radeon RX 6900 XT 16GB GDDR6"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "AMD"
+              },
+              {
+                "key": "Series",
+                "value": "AMD Radeon RX 6000 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "category": "graphic card",
+        "name": "GT1030",
+        "price": 3650,
+        "image": ["https://static.gigabyte.com/StaticFile/Image/Global/56831ac193b71920796941cd99854840/Product/17449/png/1000", "https://img.advice.co.th/images_nas/advice_activity/202105223141541445.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GT1030 DDR5 2GB 64-BIT",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Gigabyte"
+              },
+              {
+                "key": "Model",
+                "value": "GT 1030 Low Profile 2G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 10 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "category": "graphic card",
+        "name": "GTX1660",
+        "price": 8990,
+        "image": ["https://www.gigabyte.com/FileUpload/Global/KeyFeature/1303/img/vga/02.png", "https://www.gigabyte.com/FileUpload/Global/KeyFeature/1303/img/vga/09.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GEFORCE GTX1660 SUPER OC 6G - 6GB GDDR6",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Gigabyte"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce GTX 1660 SUPER OC 6G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 16 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "category": "graphic card",
+        "name": "GTX1050TI",
+        "price": 5950,
+        "image": ["https://www.jib.co.th/img_master/product/original/20190122102013_24077_22_1.jpg", "https://cf.shopee.co.th/file/14e676a59dd6a59e39b3662c845fa01e"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) ASUS PH GTX1050TI 4G",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Asus"
+              },
+              {
+                "key": "Model",
+                "value": "PH-GTX1050TI-4G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 10 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "category": "graphic card",
+        "name": "RTX 3090",
+        "price": 3490,
+        "image": ["https://www.jib.co.th/img_master/product/original/20190122103910_25988_22_1.jpg", "https://philong.com.vn/media/product/7585_vga_card_asus_ph_gt1030_o2g_ddr5_64bit_2.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) ASUS PH-GT1030 O2G",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Asus"
+              },
+              {
+                "key": "Model",
+                "value": "PH-GT1030-O2G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "N/A"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 10 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "category": "graphic card",
+        "name": "RTX 3070 TI ",
+        "price": 18500,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021061415470047136_1.jpg", "https://m.media-amazon.com/images/I/71F-4DwWf-L.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3070 TI - 8GB GDDR6X",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Manli"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce RTX 3070 Ti"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 30 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "category": "graphic card",
+        "name": "RTX 3090 SG",
+        "price": 41900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2020092413223442809_1.jpg", "https://storage.googleapis.com/file-computeandmore/large_images/886815f8-aa83-4a44-9d72-81c9a8ab3dbe.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3090 SG",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Galax"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce RTX 3090 SG (1-Click OC)"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "GeForce RTX 3090"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "category": "graphic card",
+        "name": "RTX3070TI",
+        "price": 25400,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021061414554547135_1.jpg", "https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/518ce17588e302b745dabc67694c738a/original.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) ASUS ROG STRIX RTX3070TI O8G GAMING",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Asus"
+              },
+              {
+                "key": "Model",
+                "value": "ROG STRIX RTX3070TI O8G GAMING"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 30 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "category": "graphic card",
+        "name": "RTX 3090",
+        "price": 38900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2020092413461342812_1.jpg", "https://c1.neweggimages.com/ProductImage/14-932-327-V11.jpg"],
+        "description": "VGA (การ์ดแสดงผล) GIGABYTE GEFORCE RTX 3090 GAMING OC",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Gigabyte"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce RTX 3090 GAMING OC 24G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 30 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "category": "graphic card",
+        "name": "RTX 3060 TI",
+        "price": 14900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2022050914583653019_1.jpg", "https://media-cdn.bnn.in.th/208442/manli-rtx3060ti-lhr-8gb-1-square_medium.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3060 TI LHR - 8GB GDDR6",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Manli"
+              },
+              {
+                "key": "Model",
+                "value": "Manli GeForce RTX™ 3060 Ti LHR"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 30 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "category": "graphic card",
+        "name": "GTX1660",
+        "price": 8290,
+        "image": ["https://static.gigabyte.com/StaticFile/Image/Global/453c9a0d7cdcf648bd239eefa8dd5975/Product/22932/png/500", "https://www.dateks.lv/images/pic/2400/2400/903/372.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GTX1660 OC 6G 6GB GDDR5",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Gigabyte"
+              },
+              {
+                "key": "Model",
+                "value": "GIGABYTE GTX1660 OC 6 GB DDR"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 16 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "category": "graphic card",
+        "name": "RTX 3090",
+        "price": 39900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2020101208463243063_1.jpg", "https://img.advice.co.th/images_nas/pic_product4/A0133274/A0133274OK_BIG_4.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) MSI RTX3090 VENTUS 3X 24GB OC DDR6X",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "MSI"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce RTX™ 3090 VENTUS 3X 24G OC"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 30 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "category": "graphic card",
+        "name": "GTX 1050 Ti",
+        "price": 6190,
+        "image": ["https://asset.msi.com/resize/image/global/product/product_9_20180411114452_5acd84b422981.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png", "https://media-cdn.bnn.in.th/28278/4719072518561-2-square_medium.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) MSI GTX 1050 Ti 4GT OCV1",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "MSI"
+              },
+              {
+                "key": "Model",
+                "value": "GTX 1050 Ti 4GT OCV1"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 10 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "category": "graphic card",
+        "name": "GTX1650",
+        "price": 7190,
+        "image": ["https://www.asus.com/media/global/gallery/q9qcrfsypt27nqos_setting_xxx_0_90_end_2000.png", "https://www.asus.com/media/global/gallery/6XFocvioFE8YRj9F_setting_xxx_0_90_end_800.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) ASUS DUAL GTX1650 O4G 4GB GDDR5",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Asus"
+              },
+              {
+                "key": "Model",
+                "value": "DUAL GTX1650 O4G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 3.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 16 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "category": "graphic card",
+        "name": "RTX 3070 TI",
+        "price": 21900,
+        "image": ["imglink1", "imglink2"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GEFORCE RTX 3070 TI GAMING OC 8G - 8GB GDDR6X",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Gigabyte"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce RTX 3070 Ti GAMING OC 8G"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 30 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "category": "graphic card",
+        "name": "RTX 3060",
+        "price": 14500,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "Galax"
+              },
+              {
+                "key": "Model",
+                "value": "GeForce RTX 3060 (1-Click OC)"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Slot",
+                "value": "1 x PCIe 4.0 x16 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "NVIDIA"
+              },
+              {
+                "key": "Series",
+                "value": "NVIDIA GeForce 30 Series"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "category": "microphone",
+        "name": "HyperX QUADCAST STANDALONE",
+        "price": 4390,
+        "image": ["https://www.jib.co.th/img_master/uploads/NYX/102019/21102019/hx-keyfeatures-audio-mic-quadcast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/NYX/102019/21102019/hx-keyfeatures-audio-mic-quadcast-2-lg.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX QUADCAST STANDALONE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HyperX"
+              },
+              {
+                "key": "Model",
+                "value": "QUADCAST STANDALONE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz-20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3m"
+              },
+              {
+                "key": "weight",
+                "value": "254g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "category": "microphone",
+        "name": "HyperX SOLOCAST",
+        "price": 1990,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content/1913495106/hx-keyfeatures-audio-mic-solocast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/Content/1913495106/hx-keyfeatures-audio-mic-solocast-2-lg.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX SOLOCAST",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HyperX"
+              },
+              {
+                "key": "Model",
+                "value": "SOLOCAST"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz-20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "Wireless"
+              },
+              {
+                "key": "weight",
+                "value": "261g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "category": "microphone",
+        "name": "SIGNO MP-701 CONDENSER MICROPHONE",
+        "price": 760,
+        "image": ["https://www.gump.in.th/uploaded_files/images/Signo%20eSport/701-1.jpg", "https://www.gump.in.th/uploaded_files/images/Signo%20eSport/701-2.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) SIGNO MP-701 CONDENSER MICROPHONE (BLACK)",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "SIGNO"
+              },
+              {
+                "key": "Model",
+                "value": "MP-701 CONDENSER MICROPHONE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20hz-20khz"
+              },
+              {
+                "key": "cable length",
+                "value": "3.5m"
+              },
+              {
+                "key": "weight",
+                "value": "220g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "category": "microphone",
+        "name": "NUBWO CYPHER X300",
+        "price": 2390,
+        "image": ["https://www.jib.co.th/img_master/product/original/2019080916525134747_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2020/01/IMG_1553-Edit.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) NUBWO CYPHER X300 96KHz",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "NUBWO"
+              },
+              {
+                "key": "Model",
+                "value": "CYPHER X300"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20hz - 20khz"
+              },
+              {
+                "key": "cable length",
+                "value": "Wireless"
+              },
+              {
+                "key": "weight",
+                "value": "225g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "category": "microphone",
+        "name": "HyperX QUADCAST S STANDALONE",
+        "price": 5990,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content/1913495109/hx-keyfeatures-audio-mic-quadcast-1-lg.jpg", "https://www.jib.co.th/img_master/uploads/Content/1913495109/hx-keyfeatures-audio-mic-quadcast-2-lg.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX QUADCAST S STANDALONE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HyperX"
+              },
+              {
+                "key": "Model",
+                "value": "QUADCAST S STANDALONE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3m"
+              },
+              {
+                "key": "weight",
+                "value": "254g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "category": "microphone",
+        "name": "FANTECH LEVIOSA MCX01 USB",
+        "price": 1290,
+        "image": ["https://www.jib.co.th/img_master/product/original/2020100816454843057_1.jpg", "https://img.advice.co.th/images_nas/pic_product4/A0134426/A0134426OK_BIG_1.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) FANTECH LEVIOSA MCX01 USB",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "FANTECH"
+              },
+              {
+                "key": "Model",
+                "value": "LEVIOSA MCX01"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2.5m"
+              },
+              {
+                "key": "weight",
+                "value": "252g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "category": "microphone",
+        "name": "RAZER SEIREN MINI",
+        "price": 1590,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content/001_Temp/202011/9301332514/100-01.jpg", "https://www.jib.co.th/img_master/uploads/Content/001_Temp/202011/9301332514/100-02.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) RAZER SEIREN MINI (BLACK)",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "SEIREN MINI"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3m"
+              },
+              {
+                "key": "weight",
+                "value": "272.2g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "category": "microphone",
+        "name": "AVERMEDIA AM310",
+        "price": 3490,
+        "image": ["https://www.digital2home.com/wp-content/uploads/2019/06/AVERMEDIA-AM310-USB-Microphone-01.jpg", "https://www.zoomcamera.net/wp-content/uploads/2019/08/AVerMedia-AM310-USB-Microphone-3.jpg"],
+        "description": "MICROPHONE (ไมโครโฟน) AVERMEDIA AM310",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "AVERMEDIA"
+              },
+              {
+                "key": "Model",
+                "value": "AM310"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3.5m"
+              },
+              {
+                "key": "weight",
+                "value": "468g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "category": "microphone",
+        "name": "NUBWO M66 CONDENSER MICROPHONE",
+        "price": 230,
+        "image": ["https://www.jib.co.th/img_master/product/original/2020042909115038442_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2018/11/2-1-4.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) NUBWO M66 CONDENSER MICROPHONE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "NUBWO"
+              },
+              {
+                "key": "Model",
+                "value": "M66 CONDENSER MICROPHONE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "50Hz - 16kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3.5m"
+              },
+              {
+                "key": "weight",
+                "value": "136g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "category": "microphone",
+        "name": "ELGATO WAVE 1",
+        "price": 4590,
+        "image": ["https://www.digital2home.com/wp-content/uploads/2021/11/elgato-wave-1-4.jpg", "https://www.ec-mall.com/wp-content/uploads/2020/09/Elgato-Wave-1-Premium-Microphone-and-Digital-Mixing-Solution-1.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) ELGATO WAVE 1",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ELGATO"
+              },
+              {
+                "key": "Model",
+                "value": "WAVE 1"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2.5m"
+              },
+              {
+                "key": "weight",
+                "value": "245g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "category": "microphone",
+        "name": "SIGNO MP-705 MAXXON - PROFESSIONAL CONDENSER MICROPHONE",
+        "price": 1390,
+        "image": ["https://www.jib.co.th/img_master/product/original/20211126143610_48185_66_1.jpg", "https://www.gump.in.th/uploaded_files/images/Signo%20eSport/MP705%20-%2009.jpg"],
+        "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) SIGNO MP-705 MAXXON - PROFESSIONAL CONDENSER MICROPHONE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "SIGNO"
+              },
+              {
+                "key": "Model",
+                "value": "MP-705 MAXXON"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2m"
+              },
+              {
+                "key": "weight",
+                "value": "380g."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "category": "microphone",
+        "name": "NUBWO M24 CONDENSER MICROPHONE",
+        "price": 549,
+        "image": ["https://www.nubwo.co.th/wp-content/uploads/2021/07/WEBVISUAL-m24-1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2021/07/WEBVISUAL-m24-2.jpg"],
+        "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) NUBWO M24 CONDENSER MICROPHONE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "NUBWO"
+              },
+              {
+                "key": "Model",
+                "value": "M24 CONDENSER"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2.5m"
+              },
+              {
+                "key": "weight",
+                "value": "850g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "category": "microphone",
+        "name": "NUBWO ECLIPSE M32",
+        "price": 240,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021021111273545280_1.jpg", "https://www.nubwo.co.th/wp-content/uploads/2021/02/Virtual_M32_210204_0.jpg"],
+        "description": "MICROPHONE (ไมโครโฟน) NUBWO ECLIPSE M32",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "NUBWO"
+              },
+              {
+                "key": "Model",
+                "value": "ECLIPSE M32"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "5m"
+              },
+              {
+                "key": "weight",
+                "value": "360g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "category": "microphone",
+        "name": "FANTECH LEVIOSA LIVE MCX02 USB",
+        "price": 3490,
+        "image": ["https://media-cdn.bnn.in.th/116985/AVerMedia-Live-Streamer-MIC-330-AM330-1.jpg", "https://cdn.shopify.com/s/files/1/0707/6073/products/AM330-6_800x.jpg?v=1631838239"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) FANTECH LEVIOSA LIVE MCX02 USB",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "FANTECH"
+              },
+              {
+                "key": "Model",
+                "value": "LEVIOSA LIVE MCX02"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "50Hz ~ 18KHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3m"
+              },
+              {
+                "key": "weight",
+                "value": "530.6g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "category": "microphone",
+        "name": "COUGAR SCREAMER-X",
+        "price": 4990,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content/9207001890/screamerx-banner-1.jpg", "https://www.jib.co.th/img_master/uploads/Content/9207001890/product-section_2-4-1.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) COUGAR SCREAMER-X",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "COUGAR"
+              },
+              {
+                "key": "Model",
+                "value": "SCREAMER-X"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3m"
+              },
+              {
+                "key": "weight",
+                "value": "310g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "category": "microphone",
+        "name": "RAZER SEIREN V2 X",
+        "price": 3890,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content2021/9301332568/razer-seiren-v2-x-hero-desktop.jpg", "https://www.jib.co.th/img_master/uploads/Content2021/9301332568/razer-seiren-v2-x-steady-quality-desktop.jpg"],
+        "description": "MICROPHONE (ไมโครโฟน) RAZER SEIREN V2 X",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "SEIREN V2 X"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.8m"
+              },
+              {
+                "key": "weight",
+                "value": "276.69g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "category": "microphone",
+        "name": "EPOS STREAMING MICROPHONE B20 (B20)",
+        "price": 6990,
+        "image": ["https://www.jib.co.th/img_master/uploads/fernfaleyy/B20_-_05.jpg", "https://www.jib.co.th/img_master/uploads/fernfaleyy/fern/B20_-_02.jpg"],
+        "description": "MICROPHONE (ไมโครโฟน) EPOS STREAMING MICROPHONE B20 (B20)",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "EPOS"
+              },
+              {
+                "key": "Model",
+                "value": "B20"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3m"
+              },
+              {
+                "key": "weight",
+                "value": "530g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "category": "microphone",
+        "name": "NUBWO X400 KIT SEEKER 96KHZ",
+        "price": 1590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2019121008393635933_1.jpg", "https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2022/03/Nubwo%20X400%20KIT%20Seeker%20Microphone%20-%203.jpg"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "NUBWO"
+              },
+              {
+                "key": "Model",
+                "value": "X400 KIT"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3.5m"
+              },
+              {
+                "key": "weight",
+                "value": "280g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "category": "microphone",
+        "name": "BLUE YETI",
+        "price": 6990,
+        "image": ["https://mercular.s3.ap-southeast-1.amazonaws.com/images/products/2019/01/Blue-Yeti-1.jpg", "https://www.zoomcamera.net/wp-content/uploads/2021/08/Blue-Yeti-X-Professional-Condenser-USB-Microphone-with-High-Res-Metering-1.jpg"],
+        "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) BLUE YETI (BLACKOUT)",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "BLUE"
+              },
+              {
+                "key": "Model",
+                "value": "YETI"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "15Hz - 22kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1828.8mm"
+              },
+              {
+                "key": "weight",
+                "value": "997.92g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "category": "microphone",
+        "name": "FIFINE K678",
+        "price": 2390,
+        "image": ["https://www.jib.co.th/img_master/uploads/Content2021/1320000008/pf-466d8bac--Georgi-Petrov-678.jpg", "https://www.jib.co.th/img_master/uploads/Content2021/1320000008/pf-a5ff8365--Touch-Technology-Review-K678.jpg"],
+        "description": "Short detail : MICROPHONE (ไมโครโฟน) FIFINE K678",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "FIFINE"
+              },
+              {
+                "key": "Model",
+                "value": "K678"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "frequency",
+                "value": "40Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "207mm"
+              },
+              {
+                "key": "weight",
+                "value": "420g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "category": "headphone",
+        "name": "LENOVO YOGA ACTIVE NOISE CANCELLATION",
+        "price": 3990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADPHONE (หูฟังไร้สาย) LENOVO YOGA ACTIVE NOISE CANCELLATION",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "LENOVO"
+              },
+              {
+                "key": "Model",
+                "value": "YOGA ACTIVE NOISE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.3m"
+              },
+              {
+                "key": "weight",
+                "value": "214g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "category": "headphone",
+        "name": "B&O BEOPLAY HX",
+        "price": 23000,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : BLUETOOTH HEADPHONE (หูฟังบลูทูธ) B&O BEOPLAY HX (BLACK ANTHRACITE)",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "B&O"
+              },
+              {
+                "key": "Model",
+                "value": "EOPLAY HX"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20-22,000 Hz"
+              },
+              {
+                "key": "cable length",
+                "value": "Wireless"
+              },
+              {
+                "key": "weight",
+                "value": "285g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "category": "headphone",
+        "name": "HyperX CLOUD STINGER S 7.1",
+        "price": 1990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) HyperX CLOUD STINGER S 7.1",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HyperX"
+              },
+              {
+                "key": "Model",
+                "value": "CLOUD STINGER S"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "18Hz-23kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.5m"
+              },
+              {
+                "key": "weight",
+                "value": "275g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "category": "headphone",
+        "name": "ONIKUMA K9 - USB / 7.1 VIRTUAL SURROUND",
+        "price": 1150,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : USB HEADSET (หูฟังยูเอสบี) ONIKUMA K9 - USB / 7.1 VIRTUAL SURROUND",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ONIKUMA"
+              },
+              {
+                "key": "Model",
+                "value": "K9"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2.4m"
+              },
+              {
+                "key": "weight",
+                "value": "372g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "category": "headphone",
+        "name": "HyperX CLOUD MIX WIRED GAMING HEADSET + BLUETOOTH",
+        "price": 5190,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : BLUETOOTH HEADSET (หูฟังบลูทูธ) HyperX CLOUD MIX WIRED GAMING HEADSET + BLUETOOTH",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HyperX"
+              },
+              {
+                "key": "Model",
+                "value": "CLOUD MIX WIRED"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "10Hz-40,000Hz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.3m"
+              },
+              {
+                "key": "weight",
+                "value": "260g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "category": "headphone",
+        "name": "ONIKUMA K10",
+        "price": 790,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) ONIKUMA K10 - 3.5 MM",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ONIKUMA"
+              },
+              {
+                "key": "Model",
+                "value": "K10"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3.5mm"
+              },
+              {
+                "key": "weight",
+                "value": "380g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "category": "headphone",
+        "name": "JBL QUANTUM 200",
+        "price": 1990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 200",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "JBL"
+              },
+              {
+                "key": "Model",
+                "value": "QUANTUM 200"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.2m"
+              },
+              {
+                "key": "weight",
+                "value": "245g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "category": "headphone",
+        "name": "RAZER BLACKSHARK V2",
+        "price": 3590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) RAZER BLACKSHARK V2",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "BLACKSHARK V2"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "12 Hz - 28000 Hz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.8m"
+              },
+              {
+                "key": "weight",
+                "value": "262g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "category": "headphone",
+        "name": "SIGNO HP-823 PALAZZO",
+        "price": 900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) SIGNO HP-823 PALAZZO",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "SIGNO"
+              },
+              {
+                "key": "Model",
+                "value": "HP-823 PALAZZO"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2.2m"
+              },
+              {
+                "key": "weight",
+                "value": "0.77KG"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "category": "headphone",
+        "name": "RAZER KRAKEN BT",
+        "price": 3590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : BLUETOOTH HEADSET (หูฟังบลูทูธ) RAZER KRAKEN BT",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "KRAKEN"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "None"
+              },
+              {
+                "key": "weight",
+                "value": "298g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "category": "headphone",
+        "name": "SIGNO HP-826 AUGUSTA - 7.1 SURROUND SOUND GAMING HEADPHONE",
+        "price": 950,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "SIGNO"
+              },
+              {
+                "key": "Model",
+                "value": "HP-826 AUGUSTA"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2.2m"
+              },
+              {
+                "key": "weight",
+                "value": "260g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "category": "headphone",
+        "name": "RAZER KRAKEN V3 X",
+        "price": 1590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : USB HEADSET (หูฟังยูเอสบี) RAZER KRAKEN V3 X",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "KRAKEN V3 X"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "12 Hz - 28 kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.8m"
+              },
+              {
+                "key": "weight",
+                "value": "285g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "category": "headphone",
+        "name": "JBL QUANTUM 100",
+        "price": 1890,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 100",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "JBL"
+              },
+              {
+                "key": "Model",
+                "value": "QUANTUM 100"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.2m"
+              },
+              {
+                "key": "weight",
+                "value": "220g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "category": "headphone",
+        "name": "BL QUANTUM 400",
+        "price": 3990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 400",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "JBL"
+              },
+              {
+                "key": "Model",
+                "value": "QUANTUM 400"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.2m"
+              },
+              {
+                "key": "weight",
+                "value": "274g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "category": "headphone",
+        "name": "JBL QUANTUM 300",
+        "price": 2990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 300",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "JBL"
+              },
+              {
+                "key": "Model",
+                "value": "QUANTUM 300"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.5m"
+              },
+              {
+                "key": "weight",
+                "value": "245g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "category": "headphone",
+        "name": "CORSAIR VIRTUOSO RGB WIRELESS HIGH-FIDELITY GAMING HEADSET",
+        "price": 6790,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS HEADSET (หูฟังไร้สาย) CORSAIR VIRTUOSO RGB WIRELESS HIGH-FIDELITY GAMING HEADSET - PEARL",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "CORSAIR"
+              },
+              {
+                "key": "Model",
+                "value": "VIRTUOSO RGB WIRELESS HIGH-FIDELITY"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 40 kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "Wireless"
+              },
+              {
+                "key": "weight",
+                "value": "285g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "category": "headphone",
+        "name": "ONIKUMA K9 POWER HONOR - 7.1 VIRTUAL SURROUND ",
+        "price": 1150,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ONIKUMA"
+              },
+              {
+                "key": "Model",
+                "value": "K9"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "2.4m"
+              },
+              {
+                "key": "weight",
+                "value": "270g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "category": "headphone",
+        "name": "CORSAIR VIRTUOSO RGB WIRELESS XT HIGH-FIDELITY GAMING HEADSET",
+        "price": 9900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS HEADSET (หูฟังไร้สาย) CORSAIR VIRTUOSO RGB WIRELESS XT HIGH-FIDELITY GAMING HEADSET",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "CORSAIR"
+              },
+              {
+                "key": "Model",
+                "value": "VIRTUOSO RGB WIRELESS XT"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 40kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "1.5m"
+              },
+              {
+                "key": "weight",
+                "value": "382g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "category": "headphone",
+        "name": "COUGAR IMMERSA ESSENTIAL",
+        "price": 1190,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : HEADSET (หูฟัง) COUGAR IMMERSA ESSENTIAL",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "COUGAR"
+              },
+              {
+                "key": "Model",
+                "value": "IMMERSA ESSENTIAL"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "20Hz - 20kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "3m"
+              },
+              {
+                "key": "weight",
+                "value": "260g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "category": "headphone",
+        "name": "YAMAHA YH-E700A",
+        "price": 12900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS HEADPHONE (หูฟังไร้สาย) YAMAHA YH-E700A",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "YAMAHA"
+              },
+              {
+                "key": "Model",
+                "value": "YH-E700A"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Frequency Range",
+                "value": "8 Hz - 40 kHz"
+              },
+              {
+                "key": "cable length",
+                "value": "WIRELESS"
+              },
+              {
+                "key": "weight",
+                "value": "325g"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "category": "mouse",
+        "name": "NUBWO BALROG X43 PLUS ",
+        "price": 349,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) NUBWO BALROG X43 PLUS (BLACK)",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "NUBWO"
+              },
+              {
+                "key": "Model",
+                "value": "BALROG X43 PLUS"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "7 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Instant A825"
+              },
+              {
+                "key": "DPI Max",
+                "value": "12800"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "category": "mouse",
+        "name": "RAZER DEATHADDER V3 PRO",
+        "price": 5690,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER DEATHADDER V3 PRO",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "DEATHADDER V3 PRO"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "5 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Focus Pro 30K Optical Sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "30000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "category": "mouse",
+        "name": "S-GEAR GAMING RGB",
+        "price": 890,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) S-GEAR GAMING RGB",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "S-GEAR"
+              },
+              {
+                "key": "Model",
+                "value": "GAMING RGB"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "1 x PCIe 4.0 x16 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "GAMS-ICARIUS"
+              },
+              {
+                "key": "DPI Max",
+                "value": "12400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "category": "mouse",
+        "name": "HyperX PULSEFIRE",
+        "price": 2690,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) HyperX PULSEFIRE HASTE WIRELESS ",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HyperX"
+              },
+              {
+                "key": "Model",
+                "value": "PULSEFIRE HASTE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Pixart PAW3335"
+              },
+              {
+                "key": "DPI Max",
+                "value": "16000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "category": "mouse",
+        "name": "STEELSERIES AEROX 3 WIRELESS BLACK ONYX 2022 EDITION",
+        "price": 4290,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) STEELSERIES AEROX 3 WIRELESS BLACK ONYX 2022 EDITION",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "STEELSERIES"
+              },
+              {
+                "key": "Model",
+                "value": "AEROX 3 WIRELESS"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "SteelSeries TrueMove Air"
+              },
+              {
+                "key": "DPI Max",
+                "value": "18000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "category": "mouse",
+        "name": "STEELSERIES AEROX 3 BLACK ONYX 2022 EDITION",
+        "price": 2990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) STEELSERIES AEROX 3 BLACK ONYX 2022 EDITION",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "STEELSERIES"
+              },
+              {
+                "key": "Model",
+                "value": "AEROX 3 BLACK ONYX"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "SteelSeries TrueMove Core"
+              },
+              {
+                "key": "DPI Max",
+                "value": "8500"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "category": "mouse",
+        "name": "LOGITECH G G502X",
+        "price": 2690,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) LOGITECH G G502X BLACK",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "LOGITECH"
+              },
+              {
+                "key": "Model",
+                "value": "G G502X"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "13 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "LIGHTSPEED"
+              },
+              {
+                "key": "DPI Max",
+                "value": "25600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "category": "mouse",
+        "name": "LOGITECH G G502X PLUS RGB WIRELESS",
+        "price": 5590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) LOGITECH G G502X PLUS RGB WIRELESS",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "LOGITECH"
+              },
+              {
+                "key": "Model",
+                "value": "G G502X PLUS RGB WIRELESS"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "13 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "LIGHTSPEED"
+              },
+              {
+                "key": "DPI Max",
+                "value": "25600"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "category": "mouse",
+        "name": "RAZER BASILISK V3 PRO",
+        "price": 5590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER BASILISK V3 PRO",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "BASILISK V3 PRO"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "13 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "ASILISK"
+              },
+              {
+                "key": "DPI Max",
+                "value": "30000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "category": "mouse",
+        "name": "RAZER DEATHADDER V3 PRO",
+        "price": 5690,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER DEATHADDER V3 PRO",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "DEATHADDER V3 PRO"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "5 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Razer™ Focus Pro 30K Optical Sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "30000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "category": "mouse",
+        "name": "HyperX PULSEFIRE CORE RGB",
+        "price": 990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) HyperX PULSEFIRE CORE RGB",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HyperX"
+              },
+              {
+                "key": "Model",
+                "value": "PULSEFIRE CORE RGB"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "5 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Pixart 3327 optical sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "6200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "category": "mouse",
+        "name": "COOLER MASTER MM731 RGB GAMING MOUSE",
+        "price": 2190,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) COOLER MASTER MM731 RGB GAMING MOUSE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "COOLER MASTER"
+              },
+              {
+                "key": "Model",
+                "value": "MM731 RGB GAMING MOUSE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "PixArt Optical Sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "19000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "category": "mouse",
+        "name": "COOLER MASTER MM310 WIRED GAMING MOUSE",
+        "price": 1290,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) COOLER MASTER MM310 WIRED GAMING MOUSE [MM-310-KKOL1]",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "COOLER MASTER"
+              },
+              {
+                "key": "Model",
+                "value": "MM310 WIRED GAMING MOUSE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "PixArt Optical Sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "12000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "category": "mouse",
+        "name": "ZOWIE FK1+-C BLACK",
+        "price": 2590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) ZOWIE FK1+-C BLACK",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ZOWIE"
+              },
+              {
+                "key": "Model",
+                "value": "FK1+-C"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "5 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "None"
+              },
+              {
+                "key": "DPI Max",
+                "value": "3200"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "category": "mouse",
+        "name": "GLORIOUS MODEL I MATTE",
+        "price": 2090,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) GLORIOUS MODEL I MATTE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "GLORIOUS"
+              },
+              {
+                "key": "Model",
+                "value": "MODEL I MATTE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "9 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Glorious BAMF Sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "19000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "category": "mouse",
+        "name": "RAZER VIPER V2 PRO",
+        "price": 5490,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER VIPER V2 PRO",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "RAZER"
+              },
+              {
+                "key": "Model",
+                "value": "VIPER V2 PRO"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Focus Pro 30K Optical Sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "30000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "category": "mouse",
+        "name": "HYPERX PULSEFIRE HASTE",
+        "price": 1490,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) HYPERX PULSEFIRE HASTE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HYPERX"
+              },
+              {
+                "key": "Model",
+                "value": "PULSEFIRE HASTE"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "1 x PCIe 4.0 x16 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "pulsefire haste"
+              },
+              {
+                "key": "DPI Max",
+                "value": "16000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "category": "mouse",
+        "name": "TEELSERIES SENSEI TEN",
+        "price": 2490,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : MOUSE (เมาส์) STEELSERIES SENSEI TEN",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "TEELSERIES"
+              },
+              {
+                "key": "Model",
+                "value": "SENSEI TEN"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "TrueMove Pro"
+              },
+              {
+                "key": "DPI Max",
+                "value": "18000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "category": "mouse",
+        "name": "GLORIOUS MODEL D-",
+        "price": 3590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) GLORIOUS MODEL D- WIRELESS MATTE WHITE",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "GLORIOUS"
+              },
+              {
+                "key": "Model",
+                "value": "MODEL D-"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "6 Buttons"
+              },
+              {
+                "key": "Chipset",
+                "value": "Glorious BAMF Sensor"
+              },
+              {
+                "key": "DPI Max",
+                "value": "19000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "category": "mouse",
+        "name": "ACER PREDATOR CESTUS 350",
+        "price": 14500,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) ACER PREDATOR CESTUS 350",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ACER"
+              },
+              {
+                "key": "Model",
+                "value": "PREDATOR CESTUS 350"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "Buttons",
+                "value": "8 Slot"
+              },
+              {
+                "key": "Chipset",
+                "value": "PMR910"
+              },
+              {
+                "key": "DPI Max",
+                "value": "16000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "category": "laptop",
+        "name": "ACER ASPIRE VERO AV15-51-518U",
+        "price": 21900,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE VERO AV15-51-518U ",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ACER"
+              },
+              {
+                "key": "Model",
+                "value": "ASPIRE VERO"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "category": "laptop",
+        "name": "ASUS M515DA-BQ303T",
+        "price": 13990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BQ303T",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "M515DA-BQ303T"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "AMD Ryzen"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "category": "laptop",
+        "name": "ASUS VIVOBOOK 14 X1402ZA-EB501WS",
+        "price": 22990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK 14 X1402ZA-EB501WS",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "VIVOBOOK 14 X1402ZA-EB501WS"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "category": "laptop",
+        "name": "ACER ASPIRE 3 A315-23-R69S",
+        "price": 12990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 3 A315-23-R69S",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ACER"
+              },
+              {
+                "key": "Model",
+                "value": "ASPIRE 3 A315-23-R69S"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "category": "laptop",
+        "name": "LENOVO IDEAPAD 3 15ITL05-81X800L4TA",
+        "price": 15990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) LENOVO IDEAPAD 3 15ITL05-81X800L4TA ",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "LENOVO"
+              },
+              {
+                "key": "Model",
+                "value": "IDEAPAD 3"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "category": "laptop",
+        "name": "ACER ASPIRE 7 A715-42G-R4KZ",
+        "price": 24990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 7 A715-42G-R4KZ",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ACER ASPIRE 7"
+              },
+              {
+                "key": "Model",
+                "value": "A715-42G-R4KZ"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "AMD Ryzen"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "category": "laptop",
+        "name": "HP 15S-FQ5085TU",
+        "price": 21990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-FQ5085TU",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HP"
+              },
+              {
+                "key": "Model",
+                "value": "15S-FQ5085TU"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "category": "laptop",
+        "name": "ASUS X515JA-BQ311W",
+        "price": 13990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS X515JA-BQ311W",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "X515JA-BQ311W"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "category": "laptop",
+        "name": "ASUS E410MA-EKP01W",
+        "price": 11990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS E410MA-EKP01W",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "E410MA-EKP01W"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "category": "laptop",
+        "name": "ACER ASPIRE 5 A515-45-R3VH ",
+        "price": 21990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 5 A515-45-R3VH ",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ACER"
+              },
+              {
+                "key": "Model",
+                "value": "ASPIRE 5"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "category": "laptop",
+        "name": "ASUS X415FA-BV301T",
+        "price": 15590,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS X415FA-BV301T",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "X415FA-BV301T"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "14"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "category": "laptop",
+        "name": "HP 15S-FQ5086TU",
+        "price": 17490,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-FQ5086TU",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HP"
+              },
+              {
+                "key": "Model",
+                "value": "15S-FQ5086TU"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "category": "laptop",
+        "name": "ASUS VIVOBOOK 15 X1500EA-BR599W",
+        "price": 16500,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK 15 X1500EA-BR599W",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "VIVOBOOK 15 X1500EA-BR599W"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "category": "laptop",
+        "name": "LENOVO IDEAPAD 3 14ITL05-81X700ENTA",
+        "price": 19990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) LENOVO IDEAPAD 3 14ITL05-81X700ENTA",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "LENOVO"
+              },
+              {
+                "key": "Model",
+                "value": "IDEAPAD 3 14ITL05-81X700ENTA"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "category": "laptop",
+        "name": "ASUS M515DA-BR301W",
+        "price": 13990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BR301W",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "M515DA-BR301W"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "AMD Ryzen"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "category": "laptop",
+        "name": "HP 15S-EQ3001AU",
+        "price": 22990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-EQ3001AU ",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HP"
+              },
+              {
+                "key": "Model",
+                "value": "15S-EQ3001AU"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "category": "laptop",
+        "name": "ASUS M515DA-BR302W",
+        "price": 13990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BR302W",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "M515DA-BR302W"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "AMD Ryzen"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "category": "laptop",
+        "name": "ASUS VIVOBOOK PRO 15 D6500QE-HN701W",
+        "price": 32990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK PRO 15 D6500QE-HN701W",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "ASUS"
+              },
+              {
+                "key": "Model",
+                "value": "VIVOBOOK PRO 15 D6500QE-HN701W"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "AMD Ryzen"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "category": "laptop",
+        "name": "LENOVO YOGA SLIM 9 14ITL (82D1008PTA) I7-1195G7 16G 1TSSD W11",
+        "price": 63990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : LENOVO YOGA SLIM 9 14ITL",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "LENOVO"
+              },
+              {
+                "key": "Model",
+                "value": "YOGA SLIM 9 14ITL"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "15.6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "category": "laptop",
+        "name": "HP PAVILION 14-EH0029TX",
+        "price": 41990,
+        "image": ["https://www.jib.co.th/img_master/product/original/2021070114335747470_1.jpg", "https://www.galax.com/media/catalog/product/cache/14/image/500x500/9df78eab33525d08d6e5fb8d27136e95/d/s/dsc_0185_1.png"],
+        "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP PAVILION 14-EH0029TX ",
+        "feature": [
+          {
+            "name": "Model",
+            "detail": [
+              {
+                "key": "brand",
+                "value": "HP"
+              },
+              {
+                "key": "Model",
+                "value": "PAVILION 14-EH0029TX"
+              }
+            ]
+          },
+          {
+            "name": "Specification",
+            "detail": [
+              {
+                "key": "OS",
+                "value": "Windows 11 Home"
+              },
+              {
+                "key": "CPU Brand",
+                "value": "Intel"
+              },
+              {
+                "key": "Display Size",
+                "value": "14"
+              }
+            ]
+          }
+        ]
+      }
+  ]
+  
