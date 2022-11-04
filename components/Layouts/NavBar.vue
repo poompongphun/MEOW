@@ -36,8 +36,16 @@
             :class="{ search: search !== '' }"
             type="text"
           />
-          <button class="absolute right-3 top-1/2 transform -translate-y-1/2">
-            <FontAwesomeIcon icon="magnifying-glass" class="text-primary" />
+          <button
+            class="absolute right-3 top-1/2 transform -translate-y-1/2"
+            @click="search = ''"
+          >
+            <FontAwesomeIcon
+              v-if="search === ''"
+              icon="magnifying-glass"
+              class="text-primary"
+            />
+            <FontAwesomeIcon v-else icon="circle-xmark" class="text-primary" />
           </button>
           <div class="search-dropdown absolute top-10 w-full rounded-md">
             <search-dropdown :data="search" />
