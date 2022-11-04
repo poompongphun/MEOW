@@ -266,4 +266,9 @@ export const getters = {
   getProductById: (state) => (id) => {
     return state.allProducts.find((product) => product.id === id)
   },
+  searchProductByName: (state) => (name) => {
+    return state.allProducts.filter((product) =>
+      product.name.toLowerCase().includes(name.toLowerCase())
+    )
+  },
 }

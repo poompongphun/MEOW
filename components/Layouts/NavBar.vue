@@ -23,6 +23,7 @@
       <div class="w-full">
         <div class="w-full relative">
           <input
+            v-model="search"
             class="
               w-full
               border border-grey
@@ -32,11 +33,15 @@
               pr-8
               outline-none
             "
+            :class="{ search: search !== '' }"
             type="text"
           />
           <button class="absolute right-3 top-1/2 transform -translate-y-1/2">
             <FontAwesomeIcon icon="magnifying-glass" class="text-primary" />
           </button>
+          <div class="search-dropdown absolute top-10 w-full rounded-md">
+            <search-dropdown :data="search" />
+          </div>
         </div>
       </div>
       <div class="flex justify-center items-center gap-2">
@@ -177,7 +182,10 @@
               md:mr-2
             "
           >
-            <FontAwesomeIcon icon="right-to-bracket" class="text-white text-sm" />
+            <FontAwesomeIcon
+              icon="right-to-bracket"
+              class="text-white text-sm"
+            />
           </div>
           <span class="hidden md:block">เข้าสู่ระบบ</span>
         </button>
@@ -187,11 +195,14 @@
 </template>
 
 <script>
+import SearchDropdown from './SearchDropdown.vue'
 export default {
+  components: { SearchDropdown },
   data() {
     const self = this
     return {
       isTop: true,
+      search: '',
       menus: [
         {
           icon: 'clipboard-list',
@@ -244,5 +255,18 @@ export default {
 .menu-btn:hover .mymenu {
   opacity: 1;
   pointer-events: all;
+}
+.search-dropdown {
+  max-height: 0px;
+  opacity: 0;
+  overflow: hidden;
+  transition: all 0.1s ease-in-out;
+}
+
+.search:focus ~ .search-dropdown,
+.search-dropdown:hover {
+  opacity: 1;
+  overflow: auto;
+  max-height: calc(57px * 4);
 }
 </style>
