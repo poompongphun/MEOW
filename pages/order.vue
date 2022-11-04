@@ -3,11 +3,22 @@
     <div class="text-2xl font-bold">รายการคำสั่งซื้อ</div>
     <div class="my-2">
       <div
-        v-for="(order, i) in data"
+        v-for="(order, i) in $store.state.cart.order"
         :key="i"
         class="w-full shadow-lg p-2 bg-white relative rounded-lg mb-2"
       >
-        <div class="absolute top-0 right-0 text-center p-2 z-10 invisible md:visible">
+        <div
+          class="
+            absolute
+            top-0
+            right-0
+            text-center
+            p-2
+            z-10
+            invisible
+            md:visible
+          "
+        >
           <div
             class="px-4 py-3 border-2 border-primary rounded-lg mb-2 bg-white"
           >
@@ -36,7 +47,7 @@
                 object-contain
                 bg-white
               "
-              :src="item.image[0]"
+              :src="item.images[0]"
               alt=""
             />
             <div class="flex flex-col justify-between h-36">
@@ -67,10 +78,18 @@
           รวม
           {{
             order.order
-              .reduce((partialSum, a) => partialSum + a.price, 0)
+              .reduce((partialSum, a) => partialSum + a.price * a.amount, 0)
               .toLocaleString('en-us')
           }}
           บาท
+        </div>
+      </div>
+      <div
+        v-if="$store.state.cart.order.length === 0"
+        class="h-20 flex justify-center items-center"
+      >
+        <div class="bg-white px-4 py-2 rounded-md shadow-md">
+          ไม่มีรายการคำสั่งซื้อ
         </div>
       </div>
     </div>

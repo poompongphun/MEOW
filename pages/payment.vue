@@ -2,13 +2,27 @@
   <div class="pt-8 px-2">
     <div class="text-2xl font-bold">เลือกวิธีชำระเงิน</div>
     <div class="my-2">
-      <my-radio :data="bankimg" @select="select">
+      <my-radio :data="banking" @select="select">
         <template #default="{ data }">
-          <banking-card :data="data" />
+          <banking-card :data="data.img" />
         </template>
       </my-radio>
     </div>
-    <checkout-detail />
+    <checkout-detail
+      :data="{
+        text: 'ยืนยันคำสั่งซื้อ',
+        link: () => {
+          $store.commit('cart/checkout', {
+            ...$store.state.cart.checkoutTmp,
+            payment: banking[selected].name,
+            created_date: String(new Date().toLocaleDateString('en-US')),
+            status: 'pending',
+          })
+          $router.push('/order')
+        },
+      }"
+      :disabled="selected == null"
+    />
   </div>
 </template>
 
@@ -20,19 +34,41 @@ export default {
   name: 'PaymentPage',
   components: { BankingCard, MyRadio, CheckoutDetail },
   layout: 'noFooter',
+  validate({ store, redirect }) {
+    if (
+      store.state.cart.checkoutTmp !== null &&
+      'order' in store.state.cart.checkoutTmp &&
+      'address' in store.state.cart.checkoutTmp
+    ) {
+      return true
+    } else {
+      redirect('/cart')
+    }
+  },
   data: () => ({
-    bankimg: [
-      'https://www.เปิดสอบราชการ.com/img/articles/154968392520191019_201135.png',
-      'https://play-lh.googleusercontent.com/dVr2IZFMqilCP3pixPfH1djP_BPhwfjkQyNAjhhzhsFtKfXXh3BomzR3aGg2QMvhya4',
-      'https://storage.googleapis.com/techsauce-prod/uploads/2019/04/AirPay_Logo-.png',
-      'https://www.shimono.co.th/wp-content/uploads/2020/06/visa-mastercard-400x-q75.png',
+    banking: [
+      {
+        name: 'krungthai',
+        img: 'https://www.เปิดสอบราชการ.com/img/articles/154968392520191019_201135.png',
+      },
+      {
+        name: 'promptpay',
+        img: 'https://play-lh.googleusercontent.com/dVr2IZFMqilCP3pixPfH1djP_BPhwfjkQyNAjhhzhsFtKfXXh3BomzR3aGg2QMvhya4',
+      },
+      {
+        name: 'airpay',
+        img: 'https://storage.googleapis.com/techsauce-prod/uploads/2019/04/AirPay_Logo-.png',
+      },
+      {
+        name: 'credit/debit',
+        img: 'https://www.shimono.co.th/wp-content/uploads/2020/06/visa-mastercard-400x-q75.png',
+      },
     ],
+    selected: null,
   }),
   methods: {
     select(index) {
-      console.log(index)
-      //   this.selected = index
-      //   this.$emit('select', this.selected)
+      this.selected = index
     },
   },
 }

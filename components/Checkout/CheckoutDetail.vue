@@ -1,5 +1,11 @@
 <template>
-  <div class="fixed bottom-4 w-full left-0">
+  <div
+    class="fixed bottom-4 w-full left-0 transition-all"
+    :class="{
+      'opacity-50 pointer-events-none':
+        $store.state.cart.carts.length === 0 || disabled || !$store.state.user,
+    }"
+  >
     <div
       class="
         bg-primary
@@ -18,11 +24,18 @@
       <div class="flex justify-center items-center gap-10 text-white">
         <div class="text-sm">
           จำนวน
-          <div class="text-xl">4 ชิ้น</div>
+          <div class="text-xl">{{ $store.state.cart.carts.length }} ชิ้น</div>
         </div>
         <div class="text-sm">
           ราคาทั้งหมด
-          <div class="text-xl">200,000 บาท</div>
+          <div class="text-xl">
+            {{
+              $store.state.cart.carts
+                .reduce((partialSum, a) => partialSum + a.price, 0)
+                .toLocaleString('en-us')
+            }}
+            บาท
+          </div>
         </div>
       </div>
       <button
@@ -35,15 +48,28 @@
           rounded-md
           font-bold
         "
+        @click="data.link"
       >
-        เลือกที่อยู่
+        <div v-if="!$store.state.user">กรุณาเข้าสู่ระบบก่อน</div>
+        <div>{{ data.text }}</div>
       </button>
     </div>
   </div>
 </template>
 
 <script>
-export default {}
+export default {
+  props: {
+    data: {
+      type: Object,
+      required: true,
+    },
+    disabled: {
+      type: Boolean,
+      default: false,
+    },
+  },
+}
 </script>
 
 <style>

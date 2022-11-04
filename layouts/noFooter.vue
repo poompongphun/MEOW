@@ -16,6 +16,7 @@ export default {
   mounted() {
     this.$store.commit('init')
     this.$store.commit('address/init')
+    this.$store.commit('cart/init')
   },
 }
 </script>

@@ -1,19 +1,7 @@
 export const state = () => ({
-  carts: [
-    {
-      id: '1',
-      category: 'graphic card',
-      name: 'MSI Geforce RTX 3090',
-      price: 50000,
-      images: [
-        'https://media.discordapp.net/attachments/1026446507194470440/1036330258766516234/IMG_9816.JPG?width=420&height=560',
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-      ],
-      description:
-        'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
-      amount: 4,
-    },
-  ],
+  carts: [],
+  checkoutTmp: null,
+  order: [],
 })
 
 export const mutations = {
@@ -38,11 +26,28 @@ export const mutations = {
         state.carts.splice(index, 1)
       }
     }
+    localStorage.setItem('cart', JSON.stringify(state.carts))
   },
   removeCart(state, payload) {
     const index = state.carts.findIndex((cart) => cart.id === payload.id)
     state.carts.splice(index, 1)
+    localStorage.setItem('cart', JSON.stringify(state.carts))
   },
+  updateCheckoutTmp(state, payload) {
+    state.checkoutTmp = payload
+  },
+  checkout(state, payload) {
+    state.order.push(payload)
+    state.checkoutTmp = null
+    state.carts = []
+    localStorage.setItem('cart', JSON.stringify(state.carts))
+  },
+  init(state) {
+    const cart = localStorage.getItem('cart')
+    if (cart) {
+      state.carts = JSON.parse(cart)
+    }
+  }
 }
 
 export const actions = {}
