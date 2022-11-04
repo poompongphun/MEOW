@@ -1,6 +1,6 @@
 <template>
   <div
-    class="fixed bottom-4 w-full left-0 transition-all"
+    class="fixed bottom-4 w-full left-0 transition-all px-2"
     :class="{
       'opacity-50 pointer-events-none':
         $store.state.cart.carts.length === 0 || disabled || !$store.state.user,
@@ -10,8 +10,10 @@
       class="
         bg-primary
         w-full
-        h-40
-        p-10
+        h-[130px]
+        sm:h-40
+        p-5
+        sm:p-10
         container
         mx-auto
         rounded-lg
@@ -21,7 +23,7 @@
         shadow-lg
       "
     >
-      <div class="flex justify-center items-center gap-10 text-white">
+      <div class="flex justify-center items-center gap-5 sm:gap-10 text-white">
         <div class="text-sm">
           จำนวน
           <div class="text-xl">{{ $store.state.cart.carts.length }} ชิ้น</div>
@@ -40,7 +42,8 @@
       </div>
       <button
         class="
-          max-w-[270px]
+          max-w-[150px]
+          md:max-w-[270px]
           w-full
           h-14
           text-primary

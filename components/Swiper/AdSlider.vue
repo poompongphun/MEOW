@@ -24,9 +24,10 @@
     <button
       class="
         myNext
-        w-12
-        h-12
-        bg-lightPrimary
+        w-10
+        h-10
+        md:w-12 md:h-12
+        sm:bg-lightPrimary
         flex
         justify-center
         items-center
@@ -40,9 +41,10 @@
     <button
       class="
         myPrev
-        w-12
-        h-12
-        bg-lightPrimary
+        w-10
+        h-10
+        md:w-12 md:h-12
+        sm:bg-lightPrimary
         flex
         justify-center
         items-center
@@ -99,10 +101,10 @@ export default {
   overflow: visible !important;
 }
 .myPrev {
-  left: 0px;
+  left: 10px;
 }
 .myNext {
-  right: 0px;
+  right: 10px;
 }
 @media screen and (min-width: 640px) {
   .swiper-slide {
@@ -112,6 +114,14 @@ export default {
     transform: scale(1.15) !important;
     z-index: 2;
   }
+  .myPrev {
+    left: -20px;
+  }
+  .myNext {
+    right: -20px;
+  }
+}
+@media screen and (min-width: 768px) {
   .myPrev {
     left: -24px;
   }

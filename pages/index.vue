@@ -24,7 +24,7 @@
           sm:grid-cols-3
           md:grid-cols-4
           xl:grid-cols-5
-          gap-4
+          gap-2
           my-2
         "
       >

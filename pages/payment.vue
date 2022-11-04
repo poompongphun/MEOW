@@ -2,7 +2,18 @@
   <div class="pt-8 px-2">
     <div class="text-2xl font-bold">เลือกวิธีชำระเงิน</div>
     <div class="my-2">
-      <my-radio :data="banking" @select="select">
+      <my-radio
+        class="
+          my-2
+          grid grid-cols-1
+          sm:grid-cols-2
+          md:grid-cols-3
+          xl:grid-cols-4
+          gap-2
+        "
+        :data="banking"
+        @select="select"
+      >
         <template #default="{ data }">
           <banking-card :data="data.img" />
         </template>

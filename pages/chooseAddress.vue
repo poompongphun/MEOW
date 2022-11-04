@@ -2,7 +2,18 @@
   <div class="pt-8 px-2">
     <div class="text-2xl font-bold">เลือกที่อยู่</div>
     <div class="my-2">
-      <my-radio :data="$store.state.address.address" @select="select">
+      <my-radio
+        class="
+          my-2
+          grid grid-cols-1
+          sm:grid-cols-2
+          md:grid-cols-3
+          xl:grid-cols-4
+          gap-2
+        "
+        :data="$store.state.address.address"
+        @select="select"
+      >
         <template #default="{ data }">
           <address-card :data="data" />
         </template>

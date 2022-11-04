@@ -6,7 +6,7 @@
         ทั้งหมด {{ filterProduct.length }} รายการ
       </div>
     </div>
-    <div class="grid grid-cols-5 gap-2 my-2">
+    <div class="grid grid-cols-5 md:grid-cols-5 gap-2 my-2">
       <div
         class="
           bg-gradient-to-t
@@ -16,6 +16,10 @@
           h-fit
           p-4
           shadow-md
+          col-span-6
+          sm:col-span-2
+          md:col-span-2
+          lg:col-span-1
         "
       >
         <div class="w-full h-10 relative">
@@ -76,7 +80,20 @@
           ค้นหา
         </button>
       </div>
-      <div class="col-span-4 grid grid-cols-4 gap-2">
+      <div
+        class="
+          col-span-6
+          sm:col-span-3
+          md:col-span-3
+          lg:col-span-4
+          grid grid-cols-2
+          sm:grid-cols-2
+          md:grid-cols-2
+          lg:grid-cols-3
+          xl:grid-cols-4
+          gap-2
+        "
+      >
         <product-card
           v-for="(product, i) in filterProduct"
           :key="i"
