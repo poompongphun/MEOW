@@ -7,78 +7,114 @@
       </div>
     </div>
     <div class="grid grid-cols-5 md:grid-cols-5 gap-2 my-2">
-      <div
-        class="
-          bg-gradient-to-t
-          from-primary
-          to-lightviolet
-          rounded-lg
-          h-fit
-          p-4
-          shadow-md
-          col-span-6
-          sm:col-span-2
-          md:col-span-2
-          lg:col-span-1
-        "
-      >
-        <div class="w-full h-10 relative">
-          <select
-            v-model="noiMak"
-            type="text"
-            class="h-full rounded-xl w-full text-primary py-2 px-3 outline-none"
-          >
-            <option value="1">ราคาน้อยไปมาก</option>
-            <option value="2">ราคามากไปน้อย</option>
-            <option value="3">อักษรน้อยไปมาก</option>
-            <option value="4">อักษรมากไปน้อย</option>
-          </select>
-          <div
+      <div class="col-span-6 sm:col-span-2 md:col-span-2 lg:col-span-1">
+        <div
+          class="
+            bg-gradient-to-t
+            from-primary
+            to-lightviolet
+            rounded-lg
+            h-fit
+            p-4
+            shadow-md
+          "
+        >
+          <div class="w-full h-10 relative">
+            <select
+              v-model="noiMak"
+              type="text"
+              class="
+                h-full
+                rounded-xl
+                w-full
+                text-primary
+                py-2
+                px-3
+                outline-none
+              "
+            >
+              <option value="1">ราคาน้อยไปมาก</option>
+              <option value="2">ราคามากไปน้อย</option>
+              <option value="3">อักษรน้อยไปมาก</option>
+              <option value="4">อักษรมากไปน้อย</option>
+            </select>
+            <div
+              class="
+                absolute
+                right-0
+                top-0
+                h-full
+                flex
+                justify-center
+                items-center
+                py-2
+                px-3
+                pointer-events-none
+              "
+            >
+              <FontAwesomeIcon icon="chevron-down" class="text-primary" />
+            </div>
+          </div>
+          <hr class="my-4" />
+          <input
+            v-model="min"
+            type="number"
+            class="h-10 rounded-xl w-full py-2 px-3 outline-none mb-2"
+            placeholder="ราคาขั้นต่ำ"
+          />
+          <input
+            v-model="max"
+            type="number"
+            class="h-10 rounded-xl w-full py-2 px-3 outline-none mb-2"
+            placeholder="ราคาสูงสุด"
+          />
+          <button
             class="
-              absolute
-              right-0
-              top-0
-              h-full
-              flex
-              justify-center
-              items-center
+              h-10
+              rounded-xl
+              bg-white
+              text-primary
+              font-bold
+              w-full
               py-2
               px-3
-              pointer-events-none
+              outline-none
             "
+            @click="search"
           >
-            <FontAwesomeIcon icon="chevron-down" class="text-primary" />
-          </div>
+            ค้นหา
+          </button>
         </div>
-        <hr class="my-4" />
-        <input
-          v-model="min"
-          type="number"
-          class="h-10 rounded-xl w-full py-2 px-3 outline-none mb-2"
-          placeholder="ราคาขั้นต่ำ"
-        />
-        <input
-          v-model="max"
-          type="number"
-          class="h-10 rounded-xl w-full py-2 px-3 outline-none mb-2"
-          placeholder="ราคาสูงสุด"
-        />
-        <button
+        <div
           class="
-            h-10
-            rounded-xl
-            bg-white
-            text-primary
-            font-bold
-            w-full
-            py-2
-            px-3
-            outline-none
+            bg-gradient-to-t
+            from-primary
+            to-lightviolet
+            rounded-lg
+            h-fit
+            p-4
+            shadow-md
+            mt-5
+            hidden
+            sm:block
           "
-          @click="search"
         >
-          ค้นหา
-        </button>
+          <div class="text-white font-medium text-xl my-1">หมวดหมู่สินค้า</div>
+          <button
+            v-for="(item, i) in $store.state.category"
+            :key="i"
+            class="h-10 rounded-xl bg-white w-full py-2 px-3 outline-none mt-2"
+            :class="{
+              'bg-primary text-white': item.name == category.name,
+              'text-primary': item.name != category.name,
+            }"
+            @click="$router.push('/products/' + item.name)"
+          >
+            <div>
+              <FontAwesomeIcon :icon="item.icon" class="" /> {{ item.text }}
+            </div>
+          </button>
+        </div>
       </div>
       <div
         class="
