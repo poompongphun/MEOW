@@ -4,7 +4,7 @@
       "category": "graphic card",
       "name": "RTX 3090",
       "price": 50000,
-      "image": ["/product/1_1-1.png", "/product/1_1-2.jpg"],
+      "images": ["/product/1_1-1.png", "/product/1_1-2.jpg"],
       "description": "Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X",
       "feature": [
         {
@@ -44,7 +44,7 @@
         "category": "graphic card",
         "name": "RTX RTX 3070",
         "price": 18900,
-        "image": ["/product/1_2-1.png", "/product/1_2-2.png"],
+        "images": ["/product/1_2-1.png", "/product/1_2-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3070 TI GALLARDO - 8GB GDDR6X",
         "feature": [
           {
@@ -84,7 +84,7 @@
         "category": "graphic card",
         "name": "GTX1050TI",
         "price": 6190,
-        "image": ["/product/1_3-1.png", "/product/1_3-2.png"],
+        "images": ["/product/1_3-1.png", "/product/1_3-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS CERBERUS GTX1050TI O4G",
         "feature": [
           {
@@ -124,7 +124,7 @@
         "category": "graphic card",
         "name": "GTX1660S",
         "price": 8900,
-        "image": ["/product/1_4-1.png", "/product/1_4-2.png"],
+        "images": ["/product/1_4-1.png", "/product/1_4-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS TUF GTX1660S O6G GAMING - 6GB GDDR6",
         "feature": [
           {
@@ -164,7 +164,7 @@
         "category": "graphic card",
         "name": "RX6900XT",
         "price": 49900,
-        "image": ["/product/1_5-1.png", "/product/1_5-2.png"],
+        "images": ["/product/1_5-1.png", "/product/1_5-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) POWER COLOR RED DEVIL RX6900XT 16GB GDDR6",
         "feature": [
           {
@@ -204,7 +204,7 @@
         "category": "graphic card",
         "name": "GT1030",
         "price": 3650,
-        "image": ["/product/1_6-1.png", "/product/1_6-2.png"],
+        "images": ["/product/1_6-1.png", "/product/1_6-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GT1030 DDR5 2GB 64-BIT",
         "feature": [
           {
@@ -244,7 +244,7 @@
         "category": "graphic card",
         "name": "GTX1660",
         "price": 8990,
-        "image": ["/product/1_7-1.jpg", "/product/1_7-2.jpg"],
+        "images": ["/product/1_7-1.jpg", "/product/1_7-2.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GEFORCE GTX1660 SUPER OC 6G - 6GB GDDR6",
         "feature": [
           {
@@ -284,7 +284,7 @@
         "category": "graphic card",
         "name": "GTX1050TI",
         "price": 5950,
-        "image": ["/product/1_8-1.jpg", "/product/1_8-2.jpg"],
+        "images": ["/product/1_8-1.jpg", "/product/1_8-2.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS PH GTX1050TI 4G",
         "feature": [
           {
@@ -324,7 +324,7 @@
         "category": "graphic card",
         "name": "RTX 3090",
         "price": 3490,
-        "image": ["/product/1_9-1.png", "/product/1_9-2.png"],
+        "images": ["/product/1_9-1.png", "/product/1_9-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS PH-GT1030 O2G",
         "feature": [
           {
@@ -364,7 +364,7 @@
         "category": "graphic card",
         "name": "RTX 3070 TI ",
         "price": 18500,
-        "image": ["/product/1_10-1.png", "/product/1_10-2.png"],
+        "images": ["/product/1_10-1.png", "/product/1_10-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3070 TI - 8GB GDDR6X",
         "feature": [
           {
@@ -404,7 +404,7 @@
         "category": "graphic card",
         "name": "RTX 3090 SG",
         "price": 41900,
-        "image": ["/product/1_11-1.jpg", "/product/1_11-2.png"],
+        "images": ["/product/1_11-1.jpg", "/product/1_11-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3090 SG",
         "feature": [
           {
@@ -444,7 +444,7 @@
         "category": "graphic card",
         "name": "RTX3070TI",
         "price": 25400,
-        "image": ["/product/1_12-1.jpg", "/product/1_12-2.jpg"],
+        "images": ["/product/1_12-1.jpg", "/product/1_12-2.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS ROG STRIX RTX3070TI O8G GAMING",
         "feature": [
           {
@@ -484,7 +484,7 @@
         "category": "graphic card",
         "name": "RTX 3090",
         "price": 38900,
-        "image": ["/product/1_13-1.jpg", "/product/1_13-2.png"],
+        "images": ["/product/1_13-1.jpg", "/product/1_13-2.png"],
         "description": "VGA (การ์ดแสดงผล) GIGABYTE GEFORCE RTX 3090 GAMING OC",
         "feature": [
           {
@@ -524,7 +524,7 @@
         "category": "graphic card",
         "name": "RTX 3060 TI",
         "price": 14900,
-        "image": ["/product/1_14-1.png", "/product/1_14-2.png"],
+        "images": ["/product/1_14-1.png", "/product/1_14-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MANLI GEFORCE RTX 3060 TI LHR - 8GB GDDR6",
         "feature": [
           {
@@ -564,7 +564,7 @@
         "category": "graphic card",
         "name": "GTX1660",
         "price": 8290,
-        "image": ["/product/1_15-1.jpg", "/product/1_15-2.jpg"],
+        "images": ["/product/1_15-1.jpg", "/product/1_15-2.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GTX1660 OC 6G 6GB GDDR5",
         "feature": [
           {
@@ -604,7 +604,7 @@
         "category": "graphic card",
         "name": "RTX 3090",
         "price": 39900,
-        "image": ["/product/1_16-1.png", "/product/1_16-2.jpg"],
+        "images": ["/product/1_16-1.png", "/product/1_16-2.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MSI RTX3090 VENTUS 3X 24GB OC DDR6X",
         "feature": [
           {
@@ -644,7 +644,7 @@
         "category": "graphic card",
         "name": "GTX 1050 Ti",
         "price": 6190,
-        "image": ["/product/1_17-1.png", "/product/1_17-2.png"],
+        "images": ["/product/1_17-1.png", "/product/1_17-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) MSI GTX 1050 Ti 4GT OCV1",
         "feature": [
           {
@@ -684,7 +684,7 @@
         "category": "graphic card",
         "name": "GTX1650",
         "price": 7190,
-        "image": ["/product/1_18-1.png", "/product/1_18-2.png"],
+        "images": ["/product/1_18-1.png", "/product/1_18-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) ASUS DUAL GTX1650 O4G 4GB GDDR5",
         "feature": [
           {
@@ -724,7 +724,7 @@
         "category": "graphic card",
         "name": "RTX 3070 TI",
         "price": 21900,
-        "image": ["/product/1_19-1.png", "/product/1_19-2.png"],
+        "images": ["/product/1_19-1.png", "/product/1_19-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GIGABYTE GEFORCE RTX 3070 TI GAMING OC 8G - 8GB GDDR6X",
         "feature": [
           {
@@ -764,7 +764,7 @@
         "category": "graphic card",
         "name": "RTX 3060",
         "price": 14500,
-        "image": ["/product/1_20-1.png", "/product/1_20-2.jpg"],
+        "images": ["/product/1_20-1.png", "/product/1_20-2.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -804,7 +804,7 @@
         "category": "microphone",
         "name": "HyperX QUADCAST STANDALONE",
         "price": 4390,
-        "image": ["/product/2_1-1.png", "/product/2_1-2.jpg"],
+        "images": ["/product/2_1-1.png", "/product/2_1-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX QUADCAST STANDALONE",
         "feature": [
           {
@@ -844,7 +844,7 @@
         "category": "microphone",
         "name": "HyperX SOLOCAST",
         "price": 1990,
-        "image": ["/product/2_2-1.jpg", "/product/2_2-2.png"],
+        "images": ["/product/2_2-1.jpg", "/product/2_2-2.png"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX SOLOCAST",
         "feature": [
           {
@@ -884,7 +884,7 @@
         "category": "microphone",
         "name": "SIGNO MP-701 CONDENSER MICROPHONE",
         "price": 760,
-        "image": ["/product/2_3-1.jpg", "/product/2_3-2.jpg"],
+        "images": ["/product/2_3-1.jpg", "/product/2_3-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) SIGNO MP-701 CONDENSER MICROPHONE (BLACK)",
         "feature": [
           {
@@ -924,7 +924,7 @@
         "category": "microphone",
         "name": "NUBWO CYPHER X300",
         "price": 2390,
-        "image": ["/product/2_4-1.png", "/product/2_4-2.jpg"],
+        "images": ["/product/2_4-1.png", "/product/2_4-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) NUBWO CYPHER X300 96KHz",
         "feature": [
           {
@@ -964,7 +964,7 @@
         "category": "microphone",
         "name": "HyperX QUADCAST S STANDALONE",
         "price": 5990,
-        "image": ["/product/2_5-1.jpg", "/product/2_5-2.jpg"],
+        "images": ["/product/2_5-1.jpg", "/product/2_5-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) HyperX QUADCAST S STANDALONE",
         "feature": [
           {
@@ -1004,7 +1004,7 @@
         "category": "microphone",
         "name": "FANTECH LEVIOSA MCX01 USB",
         "price": 1290,
-        "image": ["/product/2_6-1.jpg", "/product/2_6-2.jpg"],
+        "images": ["/product/2_6-1.jpg", "/product/2_6-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) FANTECH LEVIOSA MCX01 USB",
         "feature": [
           {
@@ -1044,7 +1044,7 @@
         "category": "microphone",
         "name": "RAZER SEIREN MINI",
         "price": 1590,
-        "image": ["/product/2_7-1.jpg", "/product/2_7-2.jpg"],
+        "images": ["/product/2_7-1.jpg", "/product/2_7-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) RAZER SEIREN MINI (BLACK)",
         "feature": [
           {
@@ -1084,7 +1084,7 @@
         "category": "microphone",
         "name": "AVERMEDIA AM310",
         "price": 3490,
-        "image": ["/product/2_8-1.png", "/product/2_8-2.png"],
+        "images": ["/product/2_8-1.png", "/product/2_8-2.png"],
         "description": "MICROPHONE (ไมโครโฟน) AVERMEDIA AM310",
         "feature": [
           {
@@ -1124,7 +1124,7 @@
         "category": "microphone",
         "name": "NUBWO M66 CONDENSER MICROPHONE",
         "price": 230,
-        "image": ["/product/2_9-1.jpg", "/product/2_9-2.jpg"],
+        "images": ["/product/2_9-1.jpg", "/product/2_9-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) NUBWO M66 CONDENSER MICROPHONE",
         "feature": [
           {
@@ -1164,7 +1164,7 @@
         "category": "microphone",
         "name": "ELGATO WAVE 1",
         "price": 4590,
-        "image": ["/product/2_10-1.jpg", "/product/2_10-2.jpg"],
+        "images": ["/product/2_10-1.jpg", "/product/2_10-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) ELGATO WAVE 1",
         "feature": [
           {
@@ -1204,7 +1204,7 @@
         "category": "microphone",
         "name": "SIGNO MP-705 MAXXON - PROFESSIONAL CONDENSER MICROPHONE",
         "price": 1390,
-        "image": ["/product/2_11-1.jpg", "/product/2_11-2.jpg"],
+        "images": ["/product/2_11-1.jpg", "/product/2_11-2.jpg"],
         "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) SIGNO MP-705 MAXXON - PROFESSIONAL CONDENSER MICROPHONE",
         "feature": [
           {
@@ -1244,7 +1244,7 @@
         "category": "microphone",
         "name": "NUBWO M24 CONDENSER MICROPHONE",
         "price": 549,
-        "image": ["/product/2_12-1.png", "/product/2_12-2.png"],
+        "images": ["/product/2_12-1.png", "/product/2_12-2.png"],
         "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) NUBWO M24 CONDENSER MICROPHONE",
         "feature": [
           {
@@ -1284,7 +1284,7 @@
         "category": "microphone",
         "name": "NUBWO ECLIPSE M32",
         "price": 240,
-        "image": ["/product/2_13-1.png", "/product/2_13-2.jpg"],
+        "images": ["/product/2_13-1.png", "/product/2_13-2.jpg"],
         "description": "MICROPHONE (ไมโครโฟน) NUBWO ECLIPSE M32",
         "feature": [
           {
@@ -1324,7 +1324,7 @@
         "category": "microphone",
         "name": "FANTECH LEVIOSA LIVE MCX02 USB",
         "price": 3490,
-        "image": ["/product/2_14-1.jpg", "/product/2_14-2.png"],
+        "images": ["/product/2_14-1.jpg", "/product/2_14-2.png"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) FANTECH LEVIOSA LIVE MCX02 USB",
         "feature": [
           {
@@ -1364,7 +1364,7 @@
         "category": "microphone",
         "name": "COUGAR SCREAMER-X",
         "price": 4990,
-        "image": ["/product/2_15-1.jpg", "/product/2_15-2.png"],
+        "images": ["/product/2_15-1.jpg", "/product/2_15-2.png"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) COUGAR SCREAMER-X",
         "feature": [
           {
@@ -1404,7 +1404,7 @@
         "category": "microphone",
         "name": "RAZER SEIREN V2 X",
         "price": 3890,
-        "image": ["/product/2_16-1.jpg", "/product/2_16-2.png"],
+        "images": ["/product/2_16-1.jpg", "/product/2_16-2.png"],
         "description": "MICROPHONE (ไมโครโฟน) RAZER SEIREN V2 X",
         "feature": [
           {
@@ -1444,7 +1444,7 @@
         "category": "microphone",
         "name": "EPOS STREAMING MICROPHONE B20 (B20)",
         "price": 6990,
-        "image": ["/product/2_17-1.jpg", "/product/2_17-2.jpg"],
+        "images": ["/product/2_17-1.jpg", "/product/2_17-2.jpg"],
         "description": "MICROPHONE (ไมโครโฟน) EPOS STREAMING MICROPHONE B20 (B20)",
         "feature": [
           {
@@ -1484,7 +1484,7 @@
         "category": "microphone",
         "name": "NUBWO X400 KIT SEEKER 96KHZ",
         "price": 1590,
-        "image": ["/product/2_18-1.jpg", "/product/2_18-2.png"],
+        "images": ["/product/2_18-1.jpg", "/product/2_18-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -1524,7 +1524,7 @@
         "category": "microphone",
         "name": "BLUE YETI",
         "price": 6990,
-        "image": ["/product/2_19-1.jpg", "/product/2_19-2.jpg"],
+        "images": ["/product/2_19-1.jpg", "/product/2_19-2.jpg"],
         "description": "Short detail : USB MICROPHONE (ไมโครโฟนยูเอสบี) BLUE YETI (BLACKOUT)",
         "feature": [
           {
@@ -1564,7 +1564,7 @@
         "category": "microphone",
         "name": "FIFINE K678",
         "price": 2390,
-        "image": ["/product/2_20-1.jpg", "/product/2_20-2.jpg"],
+        "images": ["/product/2_20-1.jpg", "/product/2_20-2.jpg"],
         "description": "Short detail : MICROPHONE (ไมโครโฟน) FIFINE K678",
         "feature": [
           {
@@ -1604,7 +1604,7 @@
         "category": "headphone",
         "name": "LENOVO YOGA ACTIVE NOISE CANCELLATION",
         "price": 3990,
-        "image": ["/product/3_1-1.jpg", "/product/3_1-2.jpg"],
+        "images": ["/product/3_1-1.jpg", "/product/3_1-2.jpg"],
         "description": "Short detail : HEADPHONE (หูฟังไร้สาย) LENOVO YOGA ACTIVE NOISE CANCELLATION",
         "feature": [
           {
@@ -1644,7 +1644,7 @@
         "category": "headphone",
         "name": "B&O BEOPLAY HX",
         "price": 23000,
-        "image": ["/product/3_2-1.jpg", "/product/3_2-2.jpg"],
+        "images": ["/product/3_2-1.jpg", "/product/3_2-2.jpg"],
         "description": "Short detail : BLUETOOTH HEADPHONE (หูฟังบลูทูธ) B&O BEOPLAY HX (BLACK ANTHRACITE)",
         "feature": [
           {
@@ -1684,7 +1684,7 @@
         "category": "headphone",
         "name": "HyperX CLOUD STINGER S 7.1",
         "price": 1990,
-        "image": ["/product/3_3-1.jpg", "/product/3_3-2.jpg"],
+        "images": ["/product/3_3-1.jpg", "/product/3_3-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) HyperX CLOUD STINGER S 7.1",
         "feature": [
           {
@@ -1724,7 +1724,7 @@
         "category": "headphone",
         "name": "ONIKUMA K9 - USB / 7.1 VIRTUAL SURROUND",
         "price": 1150,
-        "image": ["/product/3_4-1.jpg", "/product/3_4-2.jpg"],
+        "images": ["/product/3_4-1.jpg", "/product/3_4-2.jpg"],
         "description": "Short detail : USB HEADSET (หูฟังยูเอสบี) ONIKUMA K9 - USB / 7.1 VIRTUAL SURROUND",
         "feature": [
           {
@@ -1764,7 +1764,7 @@
         "category": "headphone",
         "name": "HyperX CLOUD MIX WIRED GAMING HEADSET + BLUETOOTH",
         "price": 5190,
-        "image": ["/product/3_5-1.jpg", "/product/3_5-2.jpg"],
+        "images": ["/product/3_5-1.jpg", "/product/3_5-2.jpg"],
         "description": "Short detail : BLUETOOTH HEADSET (หูฟังบลูทูธ) HyperX CLOUD MIX WIRED GAMING HEADSET + BLUETOOTH",
         "feature": [
           {
@@ -1804,7 +1804,7 @@
         "category": "headphone",
         "name": "ONIKUMA K10",
         "price": 790,
-        "image": ["/product/3_6-1.jpg", "/product/3_6-2.jpg"],
+        "images": ["/product/3_6-1.jpg", "/product/3_6-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) ONIKUMA K10 - 3.5 MM",
         "feature": [
           {
@@ -1844,7 +1844,7 @@
         "category": "headphone",
         "name": "JBL QUANTUM 200",
         "price": 1990,
-        "image": ["/product/3_7-1.jpg", "/product/3_7-2.jpg"],
+        "images": ["/product/3_7-1.jpg", "/product/3_7-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 200",
         "feature": [
           {
@@ -1884,7 +1884,7 @@
         "category": "headphone",
         "name": "RAZER BLACKSHARK V2",
         "price": 3590,
-        "image": ["/product/3_8-1.jpg", "/product/3_8-2.jpg"],
+        "images": ["/product/3_8-1.jpg", "/product/3_8-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) RAZER BLACKSHARK V2",
         "feature": [
           {
@@ -1924,7 +1924,7 @@
         "category": "headphone",
         "name": "SIGNO HP-823 PALAZZO",
         "price": 900,
-        "image": ["/product/3_9-1.jpg", "/product/3_9-2.jpg"],
+        "images": ["/product/3_9-1.jpg", "/product/3_9-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) SIGNO HP-823 PALAZZO",
         "feature": [
           {
@@ -1964,7 +1964,7 @@
         "category": "headphone",
         "name": "RAZER KRAKEN BT",
         "price": 3590,
-        "image": ["/product/3_10-1.jpg", "/product/3_10-2.jpg"],
+        "images": ["/product/3_10-1.jpg", "/product/3_10-2.jpg"],
         "description": "Short detail : BLUETOOTH HEADSET (หูฟังบลูทูธ) RAZER KRAKEN BT",
         "feature": [
           {
@@ -2004,7 +2004,7 @@
         "category": "headphone",
         "name": "SIGNO HP-826 AUGUSTA - 7.1 SURROUND SOUND GAMING HEADPHONE",
         "price": 950,
-        "image": ["/product/3_11-1.jpg", "/product/3_11-2.png"],
+        "images": ["/product/3_11-1.jpg", "/product/3_11-2.png"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -2044,7 +2044,7 @@
         "category": "headphone",
         "name": "RAZER KRAKEN V3 X",
         "price": 1590,
-        "image": ["/product/3_12-1.jpg", "/product/3_12-2.jpg"],
+        "images": ["/product/3_12-1.jpg", "/product/3_12-2.jpg"],
         "description": "Short detail : USB HEADSET (หูฟังยูเอสบี) RAZER KRAKEN V3 X",
         "feature": [
           {
@@ -2084,7 +2084,7 @@
         "category": "headphone",
         "name": "JBL QUANTUM 100",
         "price": 1890,
-        "image": ["/product/3_13-1.jpg", "/product/3_13-2.jpg"],
+        "images": ["/product/3_13-1.jpg", "/product/3_13-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 100",
         "feature": [
           {
@@ -2124,7 +2124,7 @@
         "category": "headphone",
         "name": "BL QUANTUM 400",
         "price": 3990,
-        "image": ["/product/3_14-1.jpg", "/product/3_14-2.jpg"],
+        "images": ["/product/3_14-1.jpg", "/product/3_14-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 400",
         "feature": [
           {
@@ -2164,7 +2164,7 @@
         "category": "headphone",
         "name": "JBL QUANTUM 300",
         "price": 2990,
-        "image": ["/product/3_15-1.jpg", "/product/3_15-2.jpg"],
+        "images": ["/product/3_15-1.jpg", "/product/3_15-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) JBL QUANTUM 300",
         "feature": [
           {
@@ -2204,7 +2204,7 @@
         "category": "headphone",
         "name": "CORSAIR VIRTUOSO RGB WIRELESS HIGH-FIDELITY GAMING HEADSET",
         "price": 6790,
-        "image": ["/product/3_16-1.jpg", "/product/3_16-2.jpg"],
+        "images": ["/product/3_16-1.jpg", "/product/3_16-2.jpg"],
         "description": "Short detail : WIRELESS HEADSET (หูฟังไร้สาย) CORSAIR VIRTUOSO RGB WIRELESS HIGH-FIDELITY GAMING HEADSET - PEARL",
         "feature": [
           {
@@ -2244,7 +2244,7 @@
         "category": "headphone",
         "name": "ONIKUMA K9 POWER HONOR - 7.1 VIRTUAL SURROUND ",
         "price": 1150,
-        "image": ["/product/3_17-1.jpg", "/product/3_17-2.jpg"],
+        "images": ["/product/3_17-1.jpg", "/product/3_17-2.jpg"],
         "description": "Short detail : VGA (การ์ดแสดงผล) GALAX GEFORCE RTX 3060",
         "feature": [
           {
@@ -2284,7 +2284,7 @@
         "category": "headphone",
         "name": "CORSAIR VIRTUOSO RGB WIRELESS XT HIGH-FIDELITY GAMING HEADSET",
         "price": 9900,
-        "image": ["/product/3_18-1.jpg", "/product/3_18-2.png"],
+        "images": ["/product/3_18-1.jpg", "/product/3_18-2.png"],
         "description": "Short detail : WIRELESS HEADSET (หูฟังไร้สาย) CORSAIR VIRTUOSO RGB WIRELESS XT HIGH-FIDELITY GAMING HEADSET",
         "feature": [
           {
@@ -2324,7 +2324,7 @@
         "category": "headphone",
         "name": "COUGAR IMMERSA ESSENTIAL",
         "price": 1190,
-        "image": ["/product/3_19-1.jpg", "/product/3_19-2.jpg"],
+        "images": ["/product/3_19-1.jpg", "/product/3_19-2.jpg"],
         "description": "Short detail : HEADSET (หูฟัง) COUGAR IMMERSA ESSENTIAL",
         "feature": [
           {
@@ -2364,7 +2364,7 @@
         "category": "headphone",
         "name": "YAMAHA YH-E700A",
         "price": 12900,
-        "image": ["/product/3_20-1.jpg", "/product/3_20-2.jpg"],
+        "images": ["/product/3_20-1.jpg", "/product/3_20-2.jpg"],
         "description": "Short detail : WIRELESS HEADPHONE (หูฟังไร้สาย) YAMAHA YH-E700A",
         "feature": [
           {
@@ -2404,7 +2404,7 @@
         "category": "mouse",
         "name": "NUBWO BALROG X43 PLUS ",
         "price": 349,
-        "image": ["/product/4_1-1.jpg", "/product/4_1-2.jpg"],
+        "images": ["/product/4_1-1.jpg", "/product/4_1-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) NUBWO BALROG X43 PLUS (BLACK)",
         "feature": [
           {
@@ -2444,7 +2444,7 @@
         "category": "mouse",
         "name": "RAZER DEATHADDER V3 PRO",
         "price": 5690,
-        "image": ["/product/4_2-1.jpg", "/product/4_2-2.jpg"],
+        "images": ["/product/4_2-1.jpg", "/product/4_2-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER DEATHADDER V3 PRO",
         "feature": [
           {
@@ -2484,7 +2484,7 @@
         "category": "mouse",
         "name": "S-GEAR GAMING RGB",
         "price": 890,
-        "image": ["/product/4_3-1.png", "/product/4_3-2.jpg"],
+        "images": ["/product/4_3-1.png", "/product/4_3-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) S-GEAR GAMING RGB",
         "feature": [
           {
@@ -2524,7 +2524,7 @@
         "category": "mouse",
         "name": "HyperX PULSEFIRE",
         "price": 2690,
-        "image": ["/product/4_4-1.jpg", "/product/4_4-2.jpg"],
+        "images": ["/product/4_4-1.jpg", "/product/4_4-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) HyperX PULSEFIRE HASTE WIRELESS ",
         "feature": [
           {
@@ -2564,7 +2564,7 @@
         "category": "mouse",
         "name": "STEELSERIES AEROX 3 WIRELESS BLACK ONYX 2022 EDITION",
         "price": 4290,
-        "image": ["/product/4_5-1.jpg", "/product/4_5-2.png"],
+        "images": ["/product/4_5-1.jpg", "/product/4_5-2.png"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) STEELSERIES AEROX 3 WIRELESS BLACK ONYX 2022 EDITION",
         "feature": [
           {
@@ -2604,7 +2604,7 @@
         "category": "mouse",
         "name": "STEELSERIES AEROX 3 BLACK ONYX 2022 EDITION",
         "price": 2990,
-        "image": ["/product/4_6-1.png", "/product/4_6-2.jpg"],
+        "images": ["/product/4_6-1.png", "/product/4_6-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) STEELSERIES AEROX 3 BLACK ONYX 2022 EDITION",
         "feature": [
           {
@@ -2644,7 +2644,7 @@
         "category": "mouse",
         "name": "LOGITECH G G502X",
         "price": 2690,
-        "image": ["/product/4_7-1.png", "/product/4_7-2.jpg"],
+        "images": ["/product/4_7-1.png", "/product/4_7-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) LOGITECH G G502X BLACK",
         "feature": [
           {
@@ -2684,7 +2684,7 @@
         "category": "mouse",
         "name": "LOGITECH G G502X PLUS RGB WIRELESS",
         "price": 5590,
-        "image": ["/product/4_8-1.jpg", "/product/4_8-2.jpg"],
+        "images": ["/product/4_8-1.jpg", "/product/4_8-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) LOGITECH G G502X PLUS RGB WIRELESS",
         "feature": [
           {
@@ -2724,7 +2724,7 @@
         "category": "mouse",
         "name": "RAZER BASILISK V3 PRO",
         "price": 5590,
-        "image": ["/product/4_9-1.png", "/product/4_9-2.jpg"],
+        "images": ["/product/4_9-1.png", "/product/4_9-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER BASILISK V3 PRO",
         "feature": [
           {
@@ -2764,7 +2764,7 @@
         "category": "mouse",
         "name": "RAZER DEATHADDER V3 PRO",
         "price": 5690,
-        "image": ["/product/4_10-1.jpg", "/product/4_10-2.jpg"],
+        "images": ["/product/4_10-1.jpg", "/product/4_10-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER DEATHADDER V3 PRO",
         "feature": [
           {
@@ -2804,7 +2804,7 @@
         "category": "mouse",
         "name": "HyperX PULSEFIRE CORE RGB",
         "price": 990,
-        "image": ["/product/4_11-1.jpg", "/product/4_11-2.jpg"],
+        "images": ["/product/4_11-1.jpg", "/product/4_11-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) HyperX PULSEFIRE CORE RGB",
         "feature": [
           {
@@ -2844,7 +2844,7 @@
         "category": "mouse",
         "name": "COOLER MASTER MM731 RGB GAMING MOUSE",
         "price": 2190,
-        "image": ["/product/4_12-1.jpg", "/product/4_12-2.jpg"],
+        "images": ["/product/4_12-1.jpg", "/product/4_12-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) COOLER MASTER MM731 RGB GAMING MOUSE",
         "feature": [
           {
@@ -2884,7 +2884,7 @@
         "category": "mouse",
         "name": "COOLER MASTER MM310 WIRED GAMING MOUSE",
         "price": 1290,
-        "image": ["/product/4_13-1.jpg", "/product/4_13-2.png"],
+        "images": ["/product/4_13-1.jpg", "/product/4_13-2.png"],
         "description": "Short detail : MOUSE (เมาส์) COOLER MASTER MM310 WIRED GAMING MOUSE [MM-310-KKOL1]",
         "feature": [
           {
@@ -2924,7 +2924,7 @@
         "category": "mouse",
         "name": "ZOWIE FK1+-C BLACK",
         "price": 2590,
-        "image": ["/product/4_14-1.png", "/product/4_14-2.jpg"],
+        "images": ["/product/4_14-1.png", "/product/4_14-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) ZOWIE FK1+-C BLACK",
         "feature": [
           {
@@ -2964,7 +2964,7 @@
         "category": "mouse",
         "name": "GLORIOUS MODEL I MATTE",
         "price": 2090,
-        "image": ["/product/4_15-1.jpg", "/product/4_15-2.jpg"],
+        "images": ["/product/4_15-1.jpg", "/product/4_15-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) GLORIOUS MODEL I MATTE",
         "feature": [
           {
@@ -3004,7 +3004,7 @@
         "category": "mouse",
         "name": "RAZER VIPER V2 PRO",
         "price": 5490,
-        "image": ["/product/4_16-1.jpg", "/product/4_16-2.jpg"],
+        "images": ["/product/4_16-1.jpg", "/product/4_16-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) RAZER VIPER V2 PRO",
         "feature": [
           {
@@ -3044,7 +3044,7 @@
         "category": "mouse",
         "name": "HYPERX PULSEFIRE HASTE",
         "price": 1490,
-        "image": ["/product/4_17-1.jpg", "/product/4_17-2.jpg"],
+        "images": ["/product/4_17-1.jpg", "/product/4_17-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) HYPERX PULSEFIRE HASTE",
         "feature": [
           {
@@ -3084,7 +3084,7 @@
         "category": "mouse",
         "name": "STEELSERIES TEELSERIES SENSEI TEN",
         "price": 2490,
-        "image": ["/product/4_18-1.jpg", "/product/4_18-2.jpg"],
+        "images": ["/product/4_18-1.jpg", "/product/4_18-2.jpg"],
         "description": "Short detail : MOUSE (เมาส์) STEELSERIES SENSEI TEN",
         "feature": [
           {
@@ -3124,7 +3124,7 @@
         "category": "mouse",
         "name": "GLORIOUS MODEL D-",
         "price": 3590,
-        "image": ["/product/4_19-1.jpg", "/product/4_19-2.jpg"],
+        "images": ["/product/4_19-1.jpg", "/product/4_19-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) GLORIOUS MODEL D- WIRELESS MATTE WHITE",
         "feature": [
           {
@@ -3164,7 +3164,7 @@
         "category": "mouse",
         "name": "ACER PREDATOR CESTUS 350",
         "price": 14500,
-        "image": ["/product/4_20-1.jpg", "/product/4_20-2.jpg"],
+        "images": ["/product/4_20-1.jpg", "/product/4_20-2.jpg"],
         "description": "Short detail : WIRELESS MOUSE (เมาส์ไร้สาย) ACER PREDATOR CESTUS 350",
         "feature": [
           {
@@ -3204,7 +3204,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE VERO AV15-51-518U",
         "price": 21900,
-        "image": ["/product/5_1-1.png", "/product/5_1-2.jpg"],
+        "images": ["/product/5_1-1.png", "/product/5_1-2.jpg"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE VERO AV15-51-518U ",
         "feature": [
           {
@@ -3244,7 +3244,7 @@
         "category": "laptop",
         "name": "ASUS M515DA-BQ303T",
         "price": 13990,
-        "image": ["/product/5_2-1.png", "/product/5_2-2.png"],
+        "images": ["/product/5_2-1.png", "/product/5_2-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BQ303T",
         "feature": [
           {
@@ -3284,7 +3284,7 @@
         "category": "laptop",
         "name": "ASUS VIVOBOOK 14 X1402ZA-EB501WS",
         "price": 22990,
-        "image": ["/product/5_3-1.jpg", "/product/5_3-2.png"],
+        "images": ["/product/5_3-1.jpg", "/product/5_3-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK 14 X1402ZA-EB501WS",
         "feature": [
           {
@@ -3324,7 +3324,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE 3 A315-23-R69S",
         "price": 12990,
-        "image": ["/product/5_4-1.jpg", "/product/5_4-2.png"],
+        "images": ["/product/5_4-1.jpg", "/product/5_4-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 3 A315-23-R69S",
         "feature": [
           {
@@ -3364,7 +3364,7 @@
         "category": "laptop",
         "name": "LENOVO IDEAPAD 3 15ITL05-81X800L4TA",
         "price": 15990,
-        "image": ["/product/5_5-1.jpg", "/product/5_5-2.png"],
+        "images": ["/product/5_5-1.jpg", "/product/5_5-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) LENOVO IDEAPAD 3 15ITL05-81X800L4TA ",
         "feature": [
           {
@@ -3404,7 +3404,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE 7 A715-42G-R4KZ",
         "price": 24990,
-        "image": ["/product/5_6-1.png", "/product/5_6-2.jpg"],
+        "images": ["/product/5_6-1.png", "/product/5_6-2.jpg"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 7 A715-42G-R4KZ",
         "feature": [
           {
@@ -3444,7 +3444,7 @@
         "category": "laptop",
         "name": "HP 15S-FQ5085TU",
         "price": 21990,
-        "image": ["/product/5_7-1.png", "/product/5_7-2.png"],
+        "images": ["/product/5_7-1.png", "/product/5_7-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-FQ5085TU",
         "feature": [
           {
@@ -3484,7 +3484,7 @@
         "category": "laptop",
         "name": "ASUS X515JA-BQ311W",
         "price": 13990,
-        "image": ["/product/5_8-1.jpg", "/product/5_8-2.png"],
+        "images": ["/product/5_8-1.jpg", "/product/5_8-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS X515JA-BQ311W",
         "feature": [
           {
@@ -3524,7 +3524,7 @@
         "category": "laptop",
         "name": "ASUS E410MA-EKP01W",
         "price": 11990,
-        "image": ["/product/5_9-1.png", "/product/5_9-2.png"],
+        "images": ["/product/5_9-1.png", "/product/5_9-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS E410MA-EKP01W",
         "feature": [
           {
@@ -3564,7 +3564,7 @@
         "category": "laptop",
         "name": "ACER ASPIRE 5 A515-45-R3VH ",
         "price": 21990,
-        "image": ["/product/5_10-1.jpg", "/product/5_10-2.jpg"],
+        "images": ["/product/5_10-1.jpg", "/product/5_10-2.jpg"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ACER ASPIRE 5 A515-45-R3VH ",
         "feature": [
           {
@@ -3604,7 +3604,7 @@
         "category": "laptop",
         "name": "ASUS X415FA-BV301T",
         "price": 15590,
-        "image": ["/product/5_11-1.png", "/product/5_11-2.jpg"],
+        "images": ["/product/5_11-1.png", "/product/5_11-2.jpg"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS X415FA-BV301T",
         "feature": [
           {
@@ -3644,7 +3644,7 @@
         "category": "laptop",
         "name": "HP 15S-FQ5086TU",
         "price": 17490,
-        "image": ["/product/5_12-1.png", "/product/5_12-2.png"],
+        "images": ["/product/5_12-1.png", "/product/5_12-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-FQ5086TU",
         "feature": [
           {
@@ -3684,7 +3684,7 @@
         "category": "laptop",
         "name": "ASUS VIVOBOOK 15 X1500EA-BR599W",
         "price": 16500,
-        "image": ["/product/5_13-1.png", "/product/5_13-2.png"],
+        "images": ["/product/5_13-1.png", "/product/5_13-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK 15 X1500EA-BR599W",
         "feature": [
           {
@@ -3724,7 +3724,7 @@
         "category": "laptop",
         "name": "LENOVO IDEAPAD 3 14ITL05-81X700ENTA",
         "price": 19990,
-        "image": ["/product/5_14-1.png", "/product/5_14-2.png"],
+        "images": ["/product/5_14-1.png", "/product/5_14-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) LENOVO IDEAPAD 3 14ITL05-81X700ENTA",
         "feature": [
           {
@@ -3764,7 +3764,7 @@
         "category": "laptop",
         "name": "ASUS M515DA-BR301W",
         "price": 13990,
-        "image": ["/product/5_15-1.jpg", "/product/5_15-2.jpg"],
+        "images": ["/product/5_15-1.jpg", "/product/5_15-2.jpg"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BR301W",
         "feature": [
           {
@@ -3804,7 +3804,7 @@
         "category": "laptop",
         "name": "HP 15S-EQ3001AU",
         "price": 22990,
-        "image": ["/product/5_16-1.jpg", "/product/5_16-2.jpg"],
+        "images": ["/product/5_16-1.jpg", "/product/5_16-2.jpg"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP 15S-EQ3001AU ",
         "feature": [
           {
@@ -3844,7 +3844,7 @@
         "category": "laptop",
         "name": "ASUS M515DA-BR302W",
         "price": 13990,
-        "image": ["/product/5_17-1.jpg", "/product/5_17-2.png"],
+        "images": ["/product/5_17-1.jpg", "/product/5_17-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS M515DA-BR302W",
         "feature": [
           {
@@ -3884,7 +3884,7 @@
         "category": "laptop",
         "name": "ASUS VIVOBOOK PRO 15 D6500QE-HN701W",
         "price": 32990,
-        "image": ["/product/5_18-1.png", "/product/5_18-2.png"],
+        "images": ["/product/5_18-1.png", "/product/5_18-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK PRO 15 D6500QE-HN701W",
         "feature": [
           {
@@ -3924,7 +3924,7 @@
         "category": "laptop",
         "name": "LENOVO YOGA SLIM 9 14ITL (82D1008PTA) I7-1195G7 16G 1TSSD W11",
         "price": 63990,
-        "image": ["/product/5_19-1.png", "/product/5_19-2.png"],
+        "images": ["/product/5_19-1.png", "/product/5_19-2.png"],
         "description": "Short detail : LENOVO YOGA SLIM 9 14ITL",
         "feature": [
           {
@@ -3964,7 +3964,7 @@
         "category": "laptop",
         "name": "HP PAVILION 14-EH0029TX",
         "price": 41990,
-        "image": ["/product/5_20-1.png", "/product/5_20-2.png"],
+        "images": ["/product/5_20-1.png", "/product/5_20-2.png"],
         "description": "Short detail : NOTEBOOK (โน้ตบุ๊ค) HP PAVILION 14-EH0029TX ",
         "feature": [
           {
@@ -4000,4 +4000,3 @@
         ]
       }
   ]
-  
