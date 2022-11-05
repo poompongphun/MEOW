@@ -9,6 +9,7 @@
       cursor-pointer
       transition-all
       hover:scale-95
+      overflow-hidden
     "
     style="width: 100%"
     @click="$router.push(`/product/${data.id}`)"
@@ -27,7 +28,7 @@
         >
           {{ data.name }}
         </h4>
-        <div class="twoline" style="font-size: 12px">
+        <div class="twoline min-h-[36px]" style="font-size: 12px">
           {{ data.description }}
         </div>
       </div>

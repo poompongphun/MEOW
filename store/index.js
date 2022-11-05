@@ -1,9 +1,10 @@
+import data from '../json/datastore.json'
 export const state = () => ({
   user: null,
   category: [
     {
       icon: 'headphones',
-      name: 'headphones',
+      name: 'headphone',
       text: 'หูฟัง',
     },
     {
@@ -27,211 +28,7 @@ export const state = () => ({
       text: 'โน๊ตบุ๊ค',
     },
   ],
-  allProducts: [
-    {
-      id: '1',
-      category: 'graphic card',
-      name: 'MSI Geforce RTX 3090',
-      price: 50000,
-      images: [
-        'https://media.discordapp.net/attachments/1026446507194470440/1036330258766516234/IMG_9816.JPG?width=420&height=560',
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-      ],
-      description:
-        'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
-      feature: [
-        {
-          name: 'Model',
-          detail: [
-            {
-              key: 'brand',
-              value: 'MSI',
-            },
-            {
-              key: 'Model',
-              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
-            },
-          ],
-        },
-        {
-          name: 'Specification',
-          detail: [
-            {
-              key: 'Slot',
-              value: '1 x PCIe 4.0 x16 Slot',
-            },
-            {
-              key: 'Chipset',
-              value: 'NVIDIA',
-            },
-            {
-              key: 'Series',
-              value: 'GeForce RTX™ 3090 Ti',
-            },
-          ],
-        },
-      ],
-    },
-    {
-      id: '2',
-      category: 'graphic card',
-      name: 'MSI Geforce RTX 3090',
-      price: 50000,
-      images: [
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-      ],
-      description:
-        'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
-      feature: [
-        {
-          name: 'Model',
-          detail: [
-            {
-              key: 'brand',
-              value: 'MSI',
-            },
-            {
-              key: 'Model',
-              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
-            },
-          ],
-        },
-      ],
-    },
-    {
-      id: '3',
-      category: 'graphic card',
-      name: 'aMSI Geforce RTX 3090',
-      price: 50000,
-      images: [
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-      ],
-      description:
-        'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
-      feature: [
-        {
-          name: 'Model',
-          detail: [
-            {
-              key: 'brand',
-              value: 'MSI',
-            },
-            {
-              key: 'Model',
-              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
-            },
-          ],
-        },
-        {
-          name: 'Specification',
-          detail: [
-            {
-              key: 'Slot',
-              value: '1 x PCIe 4.0 x16 Slot',
-            },
-            {
-              key: 'Chipset',
-              value: 'NVIDIA',
-            },
-            {
-              key: 'Series',
-              value: 'GeForce RTX™ 3090 Ti',
-            },
-          ],
-        },
-      ],
-    },
-    {
-      id: '4',
-      category: 'graphic card',
-      name: 'bMSI Geforce RTX 3090',
-      price: 60000,
-      images: [
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-      ],
-      description:
-        'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
-      feature: [
-        {
-          name: 'Model',
-          detail: [
-            {
-              key: 'brand',
-              value: 'MSI',
-            },
-            {
-              key: 'Model',
-              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
-            },
-          ],
-        },
-        {
-          name: 'Specification',
-          detail: [
-            {
-              key: 'Slot',
-              value: '1 x PCIe 4.0 x16 Slot',
-            },
-            {
-              key: 'Chipset',
-              value: 'NVIDIA',
-            },
-            {
-              key: 'Series',
-              value: 'GeForce RTX™ 3090 Ti',
-            },
-          ],
-        },
-      ],
-    },
-    {
-      id: '5',
-      category: 'graphic card',
-      name: 'fMSI Geforce RTX 3090',
-      price: 40000,
-      images: [
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-        'https://www.jib.co.th/img_master/product/medium/2022052309492353368_1.jpg?v=533681653363436',
-      ],
-      description:
-        'Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X',
-      feature: [
-        {
-          name: 'Model',
-          detail: [
-            {
-              key: 'brand',
-              value: 'MSI',
-            },
-            {
-              key: 'Model',
-              value: 'GeForce RTX™ 3090 Ti SUPRIM X 24G',
-            },
-          ],
-        },
-        {
-          name: 'Specification',
-          detail: [
-            {
-              key: 'Slot',
-              value: '1 x PCIe 4.0 x16 Slot',
-            },
-            {
-              key: 'Chipset',
-              value: 'NVIDIA',
-            },
-            {
-              key: 'Series',
-              value: 'GeForce RTX™ 3090 Ti',
-            },
-          ],
-        },
-      ],
-    },
-  ],
+  allProducts: data,
 })
 export const mutations = {
   login: (state, user) => {
@@ -271,4 +68,17 @@ export const getters = {
       product.name.toLowerCase().includes(name.toLowerCase())
     )
   },
+  randomProduct:
+    (state) =>
+    (num = 1) => {
+      const random = []
+      for (let i = 0; i < num; i++) {
+        random.push(
+          state.allProducts[
+            Math.floor(Math.random() * state.allProducts.length)
+          ]
+        )
+      }
+      return random
+    },
 }

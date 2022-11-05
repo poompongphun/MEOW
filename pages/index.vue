@@ -29,7 +29,7 @@
         "
       >
         <product-card
-          v-for="(pif, i) in $store.state.allProducts"
+          v-for="(pif, i) in $store.getters.randomProduct(10)"
           :key="i"
           :data="pif"
         ></product-card>

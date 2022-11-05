@@ -170,8 +170,8 @@ export default {
     const category = store.state.category.find(
       (c) => c.name === params.category
     )
-    const products = store.getters.getProductByCategory('')
-    // const products = store.getters.getProductByCategory(category.name)
+    // const products = store.getters.getProductByCategory('')
+    const products = store.getters.getProductByCategory(category.name)
     return { category, products }
   },
   data: () => ({
