@@ -87,6 +87,7 @@
                 :data="member"
               >
               </team-card>
+              <!-- fixed incorrect file type -->
             </div>
           </div>
           <div
