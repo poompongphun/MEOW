@@ -5,7 +5,9 @@
             rounded-lg
             w-full
             sm:w-40
-            m-2
+            sm:m-2
+            mt-4
+            first:mt-2
             bg-white
             shadow-lg
             p-4

@@ -67,7 +67,7 @@
               flex-col
               "
           >
-            <span class="text-xl m-2 flex-none">Meet our team</span>
+            <span class="text-xl sm:m-2 flex-none">Meet our team</span>
             <div 
               class="
                 mb-0
@@ -96,10 +96,8 @@
               flex-none
               rounded-xl
               sm:w-48
-              m-7
+              m-5
               text-white
-              lg:m-0
-              lg:ml-5
               self-center
               hover:scale-95
               transition-all
