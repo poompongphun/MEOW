@@ -1,6 +1,6 @@
 const title = 'MEOW'
 const description = 'หมาร้องโฮ่ง แมวร้องเหมียว หนู่ร้องจิ๊ด'
-const images = 'https://nongmeow.herokuapp.com/logo.png'
+const images = '/logo.png'
 
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
