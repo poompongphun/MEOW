@@ -1,7 +1,7 @@
 [
     {
       "id": "1",
-      "category": "graphic card",
+      "category": "graphic",
       "name": "RTX 3090",
       "price": 50000,
       "images": ["/product/1_1-1.png", "/product/1_1-2.jpg"],
@@ -41,7 +41,7 @@
     },
     {
         "id": "2",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX RTX 3070",
         "price": 18900,
         "images": ["/product/1_2-1.png", "/product/1_2-2.png"],
@@ -81,7 +81,7 @@
       },
       {
         "id": "3",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1050TI",
         "price": 6190,
         "images": ["/product/1_3-1.png", "/product/1_3-2.png"],
@@ -121,7 +121,7 @@
       },
       {
         "id": "4",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1660S",
         "price": 8900,
         "images": ["/product/1_4-1.png", "/product/1_4-2.png"],
@@ -161,7 +161,7 @@
       },
       {
         "id": "5",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RX6900XT",
         "price": 49900,
         "images": ["/product/1_5-1.png", "/product/1_5-2.png"],
@@ -201,7 +201,7 @@
       },
       {
         "id": "6",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GT1030",
         "price": 3650,
         "images": ["/product/1_6-1.png", "/product/1_6-2.png"],
@@ -241,7 +241,7 @@
       },
       {
         "id": "7",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1660",
         "price": 8990,
         "images": ["/product/1_7-1.jpg", "/product/1_7-2.jpg"],
@@ -281,7 +281,7 @@
       },
       {
         "id": "8",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1050TI",
         "price": 5950,
         "images": ["/product/1_8-1.jpg", "/product/1_8-2.jpg"],
@@ -321,7 +321,7 @@
       },
       {
         "id": "9",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090",
         "price": 3490,
         "images": ["/product/1_9-1.png", "/product/1_9-2.png"],
@@ -361,7 +361,7 @@
       },
       {
         "id": "10",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3070 TI ",
         "price": 18500,
         "images": ["/product/1_10-1.png", "/product/1_10-2.png"],
@@ -401,7 +401,7 @@
       },
       {
         "id": "11",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090 SG",
         "price": 41900,
         "images": ["/product/1_11-1.jpg", "/product/1_11-2.png"],
@@ -441,7 +441,7 @@
       },
       {
         "id": "12",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX3070TI",
         "price": 25400,
         "images": ["/product/1_12-1.jpg", "/product/1_12-2.jpg"],
@@ -481,7 +481,7 @@
       },
       {
         "id": "13",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090",
         "price": 38900,
         "images": ["/product/1_13-1.jpg", "/product/1_13-2.png"],
@@ -521,7 +521,7 @@
       },
       {
         "id": "14",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3060 TI",
         "price": 14900,
         "images": ["/product/1_14-1.png", "/product/1_14-2.png"],
@@ -561,7 +561,7 @@
       },
       {
         "id": "15",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1660",
         "price": 8290,
         "images": ["/product/1_15-1.jpg", "/product/1_15-2.jpg"],
@@ -601,7 +601,7 @@
       },
       {
         "id": "16",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3090",
         "price": 39900,
         "images": ["/product/1_16-1.png", "/product/1_16-2.jpg"],
@@ -641,7 +641,7 @@
       },
       {
         "id": "17",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX 1050 Ti",
         "price": 6190,
         "images": ["/product/1_17-1.png", "/product/1_17-2.png"],
@@ -681,7 +681,7 @@
       },
       {
         "id": "18",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "GTX1650",
         "price": 7190,
         "images": ["/product/1_18-1.png", "/product/1_18-2.png"],
@@ -721,7 +721,7 @@
       },
       {
         "id": "19",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3070 TI",
         "price": 21900,
         "images": ["/product/1_19-1.png", "/product/1_19-2.png"],
@@ -761,7 +761,7 @@
       },
       {
         "id": "20",
-        "category": "graphic card",
+        "category": "graphic",
         "name": "RTX 3060",
         "price": 14500,
         "images": ["/product/1_20-1.png", "/product/1_20-2.jpg"],
