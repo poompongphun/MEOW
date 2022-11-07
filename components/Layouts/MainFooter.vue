@@ -53,6 +53,7 @@
             block
             mt-5
             2xl:mt-0
+            
           "
         >
           <div
@@ -62,31 +63,68 @@
               m-5
               lg:m-0
               lg:mr-5
+              flex
+              flex-col
               "
           >
-            <span class="text-xl">Meet our team</span>
+            <span class="text-xl m-2 flex-none">Meet our team</span>
             <div 
               class="
-                w-100
+                mb-0
+                flex-auto
+                flex
+                flex-wrap
               "
             >
-
+              <team-card
+                v-for="(member, i) in [
+                                        {'student_id': '64070004', 'img': '/teamimg/64070004.jpg'}, 
+                                        {'student_id': '64070067', 'img': '/teamimg/64070067.jpg'},
+                                        {'student_id': '64070077', 'img': '/teamimg/64070077.jpg'},
+                                        {'student_id': '64070089', 'img': '/teamimg/64070089.jpg'},
+                                        {'student_id': '64070157', 'img': '/teamimg/64070157.jpg'}]"
+                :key="i"
+                :data="member"
+              >
+              </team-card>
             </div>
           </div>
           <div
             class="
+              shadow-lg
               bg-black
               flex-none
               rounded-xl
               sm:w-48
-              m-5
-              h-60
+              m-7
               text-white
               lg:m-0
               lg:ml-5
+              self-center
+              hover:scale-95
+              transition-all
+              text-center
+              p-2
+              cursor-pointer
               "
+              onclick="window.location = 'https://github.com/poompongphun/MEOW'"
           >
-            <span>View Github</span>
+            <div
+              class="
+                  w-1/2
+                  rounded-lg
+                  h-56
+                  sm:h-36
+                  bg-contain
+                  bg-center
+                  bg-origin-content
+                  bg-no-repeat
+                  mx-auto
+              "
+              style="background-image: url('github_logo.png')"
+            >
+            </div>
+            <span class="text-xl">View our Github repository</span>
           </div>
         </div>
       </div>
