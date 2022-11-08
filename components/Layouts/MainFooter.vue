@@ -111,7 +111,7 @@
             <font-awesome-icon :icon="['fab', 'github']" 
               class="
                 p-4
-                sm:text-8xl
+                text-8xl
               "
             /><br>
             <span class="text-xl">View our Github repository</span>

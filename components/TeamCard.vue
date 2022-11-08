@@ -47,7 +47,7 @@
                     justify-center
                 "
             >
-            <span class="text-xl sm:text-lg">{{data.name}}</span>
+            <span class="text-2xl sm:text-lg">{{data.name}}</span>
             </div>
         </div>
         <span class="text-2xl sm:text-xl">{{data.student_id}}</span>
