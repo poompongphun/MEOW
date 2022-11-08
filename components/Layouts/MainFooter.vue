@@ -78,11 +78,11 @@
             >
               <team-card
                 v-for="(member, i) in [
-                                        {'student_id': '64070004', 'img': '/teamimg/64070004.jpg'}, 
-                                        {'student_id': '64070067', 'img': '/teamimg/64070067.jpg'},
-                                        {'student_id': '64070077', 'img': '/teamimg/64070077.jpg'},
-                                        {'student_id': '64070089', 'img': '/teamimg/64070089.jpg'},
-                                        {'student_id': '64070157', 'img': '/teamimg/64070157.jpg'}]"
+                                        {'student_id': '64070004', 'img': '/teamimg/64070004.jpg', 'name': 'ก้องภพ อ่อนทอง'}, 
+                                        {'student_id': '64070067', 'img': '/teamimg/64070067.jpg', 'name': 'พงพันธุ์ ศักดาสาวิตร'},
+                                        {'student_id': '64070077', 'img': '/teamimg/64070077.jpg', 'name': 'พุฒิพงศ์ บรรเริงศรี'},
+                                        {'student_id': '64070089', 'img': '/teamimg/64070089.jpg', 'name': 'ยลรดี ประยูรพันธุ์รัตน์'},
+                                        {'student_id': '64070157', 'img': '/teamimg/64070157.jpg', 'name': 'นายธนเดช เจิ้ง'}]"
                 :key="i"
                 :data="member"
               >
@@ -108,21 +108,12 @@
               "
               onclick="window.location = 'https://github.com/poompongphun/MEOW'"
           >
-            <div
+            <font-awesome-icon :icon="['fab', 'github']" 
               class="
-                  w-1/2
-                  rounded-lg
-                  h-56
-                  sm:h-36
-                  bg-contain
-                  bg-center
-                  bg-origin-content
-                  bg-no-repeat
-                  mx-auto
+                p-4
+                sm:text-8xl
               "
-              style="background-image: url('github_logo.png')"
-            >
-            </div>
+            /><br>
             <span class="text-xl">View our Github repository</span>
           </div>
         </div>
