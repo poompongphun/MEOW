@@ -60,19 +60,19 @@ export default {
     banking: [
       {
         name: 'krungthai',
-        img: 'https://www.เปิดสอบราชการ.com/img/articles/154968392520191019_201135.png',
+        img: '/banking/krungthai.png',
       },
       {
         name: 'promptpay',
-        img: 'https://play-lh.googleusercontent.com/dVr2IZFMqilCP3pixPfH1djP_BPhwfjkQyNAjhhzhsFtKfXXh3BomzR3aGg2QMvhya4',
+        img: '/banking/promptpay.png',
       },
       {
         name: 'airpay',
-        img: 'https://storage.googleapis.com/techsauce-prod/uploads/2019/04/AirPay_Logo-.png',
+        img: '/banking/airpay.png',
       },
       {
         name: 'credit/debit',
-        img: 'https://www.shimono.co.th/wp-content/uploads/2020/06/visa-mastercard-400x-q75.png',
+        img: '/banking/visa.png',
       },
     ],
     selected: null,

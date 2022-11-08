@@ -45,12 +45,7 @@ export default {
   name: 'IndexPage',
   components: { AdSlider, CategoryBtn },
   data: () => ({
-    images: [
-      'https://www.jib.co.th/img_master/banner/original/20221012101403_1.jpg?v=33001665544459',
-      'https://www.jib.co.th/img_master/banner/original/20221026114132_1.jpg?v=33271666759302',
-      'https://www.jib.co.th/img_master/banner/original/20221025115530_1.jpg?v=33211666687032',
-      'https://www.jib.co.th/img_master/banner/original/20221026153622_1.jpg?v=33291666773856',
-    ],
+    images: ['/ads/1.webp', '/ads/2.jpg', '/ads/3.webp', '/ads/3.webp'],
   }),
 }
 </script>
