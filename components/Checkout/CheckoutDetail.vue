@@ -33,7 +33,7 @@
           <div class="text-xl">
             {{
               $store.state.cart.carts
-                .reduce((partialSum, a) => partialSum + a.price, 0)
+                .reduce((partialSum, a) => partialSum + a.price * a.amount, 0)
                 .toLocaleString('en-us')
             }}
             บาท
