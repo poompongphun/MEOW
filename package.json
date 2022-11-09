@@ -21,12 +21,11 @@
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.19.3",
-    "nuxt": "^2.15.8",
+    "nuxt": "^2.13.3",
     "swiper": "^8.4.4",
     "vue": "^2.6.14",
     "vue-server-renderer": "^2.6.14",
-    "vue-template-compiler": "^2.6.14",
-    "webpack": "^4.46.0"
+    "vue-template-compiler": "^2.6.14"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.3",
@@ -39,7 +38,8 @@
     "eslint-plugin-vue": "^8.2.0",
     "postcss": "^8.4.4",
     "prettier": "^2.5.1",
-    "tailwindcss": "^3.2.1"
+    "tailwindcss": "^3.2.2",
+    "webpack": "^4.46.0"
   },
   "engines": {
     "node": "16.14.2",

@@ -14,6 +14,7 @@
             sm:p-2
             pb-2
             text-center
+            mycard
         "
     >
         <div
@@ -25,9 +26,29 @@
                 bg-cover
                 bg-center
                 mb-2
+                overflow-hidden
             "
-            :style="{backgroundImage: 'url(' + data.img + ')'}"
+            :style="'background-image: url(' + data.img + ')'"
         >
+            <div
+                class="
+                    w-full
+                    h-full
+                    rounded-lg
+                    text-white
+                    bg-[rgba(108,119,234,0.7)]
+                    translate-y-full
+                    myprofile
+                    transition-all
+                    duration-200
+                    p-2
+                    flex
+                    items-center
+                    justify-center
+                "
+            >
+            <span class="text-2xl sm:text-lg">{{data.name}}</span>
+            </div>
         </div>
         <span class="text-2xl sm:text-xl">{{data.student_id}}</span>
     </div>
@@ -44,3 +65,9 @@
         },
     }
 </script>
+
+<style>
+    .mycard:hover .myprofile{
+        transform: translateY(0);
+    }
+</style>
