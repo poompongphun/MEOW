@@ -222,11 +222,11 @@ export default {
           text: 'ที่อยู่',
           clickEvt: () => self.$router.push('/address'),
         },
-        {
-          icon: 'heart',
-          text: 'สินค้าที่ชอบ',
-          clickEvt: () => self.$router.push('/love'),
-        },
+        // {
+        //   icon: 'heart',
+        //   text: 'สินค้าที่ชอบ',
+        //   clickEvt: () => self.$router.push('/love'),
+        // },
         {
           icon: 'right-from-bracket',
           text: 'ออกจากระบบ',

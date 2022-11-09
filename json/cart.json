@@ -1,0 +1,11 @@
+[
+    {
+      "id": "1",
+      "category": "graphic card",
+      "name": "RTX 3090",
+      "price": 50000,
+      "image": ["imglink1", "imglink2"],
+      "description": "Short detail : VGA (การ์ดแสดงผล) MSI GEFORCE RTX 3090 TI SUPRIM X 24G - 24GB GDDR6X",
+      "amount": 4
+    }
+  ]
