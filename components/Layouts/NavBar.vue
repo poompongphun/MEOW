@@ -214,7 +214,7 @@ export default {
       menus: [
         {
           icon: 'clipboard-list',
-          text: 'รายการสินค้า',
+          text: 'รายการคำสั่งซื้อ',
           clickEvt: () => self.$router.push('/order'),
         },
         {

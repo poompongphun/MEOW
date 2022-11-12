@@ -26,7 +26,7 @@
         :src="data.images[0]"
       />
       <div class="flex flex-col justify-between h-36">
-        <div class="w-full max-w-[470px] relative">
+        <div class="w-full sm:w-[470px] max-w-[470px] relative">
           <p class="font-bold w-full line1">
             {{ data.name }}
           </p>
