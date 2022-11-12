@@ -42,7 +42,7 @@
           "
         >
           <div>
-            <img class="w-3/5 sm:w-1/2" src="/logo.png" alt="logo"/>
+            <img class="mb-5 w-3/5 sm:w-1/2" src="/logo.png" alt="logo"/>
             <span>หมาร้องโฮ่ง แมวร้องเหมียว นกร้องจิ๊บ ส่วนหนูร้องจิ๊ด</span>
           </div>
         </div>
