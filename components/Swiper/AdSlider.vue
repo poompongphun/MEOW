@@ -34,6 +34,8 @@
         rounded-full
         z-10
         absolute
+        transition-all
+        hover:scale-95
       "
     >
       <FontAwesomeIcon icon="angle-right" class="text-white text-2xl" />
@@ -51,6 +53,8 @@
         rounded-full
         z-10
         absolute
+        transition-all
+        hover:scale-95
       "
     >
       <FontAwesomeIcon icon="angle-left" class="text-white text-2xl" />
