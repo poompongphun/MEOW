@@ -45,7 +45,7 @@ export default {
   name: 'IndexPage',
   components: { AdSlider, CategoryBtn },
   data: () => ({
-    images: ['/ads/1.webp', '/ads/2.jpg', '/ads/3.webp', '/ads/3.webp'],
+    images: ['/ads/1.webp', '/ads/2.jpg', '/ads/3.webp', '/ads/4.webp'],
   }),
 }
 </script>
