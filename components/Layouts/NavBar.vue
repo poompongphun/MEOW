@@ -83,7 +83,7 @@
           >
             <FontAwesomeIcon icon="cart-shopping" class="text-white text-sm" />
           </div>
-          <span class="hidden md:block">ตระกร้าสินค้า</span>
+          <span class="hidden md:block">ตะกร้าสินค้า</span>
         </button>
         <button
           v-if="$store.state.user"

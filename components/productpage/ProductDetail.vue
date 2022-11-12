@@ -77,7 +77,7 @@
           "
         >
           <button class="w-full h-full text-white text-xl" @click="addToCart">
-            <FontAwesomeIcon icon="cart-plus" /> เพิ่มลงตระกร้า
+            <FontAwesomeIcon icon="cart-plus" /> เพิ่มลงตะกร้า
           </button>
         </div>
       </div>

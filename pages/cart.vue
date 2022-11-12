@@ -13,7 +13,7 @@
         class="h-20 flex justify-center items-center"
       >
         <div class="bg-white px-4 py-2 rounded-md shadow-md">
-          ไม่มีสินค้าในตระกร้า
+          ไม่มีสินค้าในตรกร้า
         </div>
       </div>
       <checkout-detail
