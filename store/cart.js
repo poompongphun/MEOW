@@ -41,11 +41,16 @@ export const mutations = {
     state.checkoutTmp = null
     state.carts = []
     localStorage.setItem('cart', JSON.stringify(state.carts))
+    localStorage.setItem('order', JSON.stringify(state.order))
   },
   init(state) {
     const cart = localStorage.getItem('cart')
     if (cart) {
       state.carts = JSON.parse(cart)
+    }
+    const order = localStorage.getItem('order')
+    if (order) {
+      state.order = JSON.parse(order)
     }
   }
 }
