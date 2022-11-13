@@ -18,6 +18,17 @@
           <address-card :data="data" />
         </template>
       </my-radio>
+      <div
+        v-if="$store.state.address.address.length === 0"
+        class="h-20 flex justify-center items-center cursor-pointer"
+      >
+        <div
+          class="bg-white px-4 py-2 rounded-md shadow-md hover:shadow-sm transition-all"
+          @click="$router.push('/address')"
+        >
+          กรุณาเพิ่มที่อยู่ Click
+        </div>
+      </div>
     </div>
     <checkout-detail
       :data="{
