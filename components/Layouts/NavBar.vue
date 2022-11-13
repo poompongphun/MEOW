@@ -230,7 +230,10 @@ export default {
         {
           icon: 'right-from-bracket',
           text: 'ออกจากระบบ',
-          clickEvt: () => self.$store.commit('logout'),
+          clickEvt: () => {
+            self.$store.commit('logout')
+            self.$router.push('/')
+          },
         },
       ],
     }

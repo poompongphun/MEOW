@@ -99,6 +99,13 @@
 <script>
 export default {
   name: 'OrderPage',
+  validate({ store, redirect }) {
+    if (store.state.user) {
+      return true
+    } else {
+      redirect('/')
+    }
+  },
 }
 </script>
 
