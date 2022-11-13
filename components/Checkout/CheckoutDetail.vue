@@ -26,7 +26,14 @@
       <div class="flex justify-center items-center gap-5 sm:gap-10 text-white">
         <div class="text-sm">
           จำนวน
-          <div class="text-xl">{{ $store.state.cart.carts.length }} ชิ้น</div>
+          <div class="text-xl">
+            {{
+              $store.state.cart.carts
+                .reduce((partialSum, a) => partialSum + a.amount, 0)
+                .toLocaleString('en-us')
+            }}
+            ชิ้น
+          </div>
         </div>
         <div class="text-sm">
           ราคาทั้งหมด
