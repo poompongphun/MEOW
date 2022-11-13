@@ -22,12 +22,17 @@
           rounded-md
           shadow-md
           object-cover
+          cursor-pointer
         "
         :src="data.images[0]"
+        @click="$router.push('/product/' + data.id)"
       />
       <div class="flex flex-col justify-between h-36">
         <div class="w-full sm:w-[470px] max-w-[470px] relative">
-          <p class="font-bold w-full line1">
+          <p
+            class="font-bold w-full line1 cursor-pointer"
+            @click="$router.push('/product/' + data.id)"
+          >
             {{ data.name }}
           </p>
           <div class="w-full line3">
@@ -44,14 +49,32 @@
         class="flex justify-between h-9 w-28 border-inherit shadow-md bg-white"
       >
         <div
-          class="flex bg-primary rounded-lg h-full pt-2.5 w-9 justify-center cursor-pointer"
+          class="
+            flex
+            bg-primary
+            rounded-lg
+            h-full
+            pt-2.5
+            w-9
+            justify-center
+            cursor-pointer
+          "
           @click="addCart(-1)"
         >
           <FontAwesomeIcon class="text-white" icon="minus" />
         </div>
         <span class="flex justify-center items-center">{{ data.amount }}</span>
         <div
-          class="flex bg-primary rounded-lg h-full pt-2.5 w-9 justify-center cursor-pointer"
+          class="
+            flex
+            bg-primary
+            rounded-lg
+            h-full
+            pt-2.5
+            w-9
+            justify-center
+            cursor-pointer
+          "
           @click="addCart(1)"
         >
           <FontAwesomeIcon class="text-white" icon="plus" />

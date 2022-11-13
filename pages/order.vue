@@ -46,13 +46,18 @@
                 shadow-md
                 object-contain
                 bg-white
+                cursor-pointer
               "
               :src="item.images[0]"
               alt=""
+              @click="$router.push('/product/' + item.id)"
             />
             <div class="flex flex-col justify-between h-36">
               <div class="w-full max-w-[470px] relative">
-                <p class="font-bold w-full line1">
+                <p
+                  class="font-bold w-full line1 cursor-pointer"
+                  @click="$router.push('/product/' + item.id)"
+                >
                   {{ item.name }}
                   <span class="text-black text-base">x {{ item.amount }}</span>
                 </p>
